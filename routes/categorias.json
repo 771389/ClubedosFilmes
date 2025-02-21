@@ -21,7 +21,52 @@
         "category_id": "4",
         "category_name": "xfast.click",
         "parent_id": 0
+      },
+
+      {
+        "category_id": "5",
+        "category_name": "cdn.topk.live",
+        "parent_id": 0
+      },
+      {
+        "category_id": "6",
+        "category_name": "ct5play.lat",
+        "parent_id": 0
+      },
+
+      {
+        "category_id": "7",
+        "category_name": "dns.carnes.ink",
+        "parent_id": 0
+      },
+
+      {
+        "category_id": "8",
+        "category_name": "dns.tplayer.live",
+        "parent_id": 0
+      },
+
+      {
+        "category_id": "9",
+        "category_name": "gerenciadorr.xyz",
+        "parent_id": 0
+      },
+
+      {
+        "category_id": "10",
+        "category_name": "srv.maxptv.net",
+        "parent_id": 0
+      },
+
+      {
+        "category_id": "11",
+        "category_name": "ust.lat",
+        "parent_id": 0
       }
+
+
+
+   
     
 ]
 
