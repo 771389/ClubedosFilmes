@@ -39,6 +39,12 @@
                 "category_id": "7",
                 "category_name": "cdn22.cc",
                 "parent_id": 0   
+            },
+
+            {
+                "category_id": "6",
+                "category_name": "178.162.197.184 (XPLUS)",
+                "parent_id": 0   
             }
 
 
