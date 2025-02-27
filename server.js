@@ -71,7 +71,18 @@ app.get('/routes/soma-total', (req, res) => {
   });
 });
 
+// 🔐 Rota protegida para servir os ícones
+app.get('/icons/:iconName', authMiddleware, (req, res) => {
+  const iconName = req.params.iconName;
+  const iconPath = path.join(__dirname, 'icons', iconName);
 
+  // Verifica se o arquivo existe
+  if (fs.existsSync(iconPath)) {
+    res.sendFile(iconPath);
+  } else {
+    res.status(404).json({ erro: 'Ícone não encontrado.' });
+  }
+});
 
 // Middleware para tratar erros
 app.use((err, req, res, next) => {
