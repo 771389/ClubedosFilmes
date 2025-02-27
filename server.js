@@ -6,87 +6,61 @@ const path = require('path');
 const app = express();
 const port = process.env.PORT || 3001;
 
-// Chave secreta para gerar e verificar os tokens
+// URL base do seu domínio
+const BASE_URL = 'https://ed331.vercel.app';
+
+// Chave secreta para autenticação
 const SECRET_KEY = process.env.SECRET_KEY || 'androidx&clubedosfilmes';
 
-// Middleware para interpretar o corpo das requisições como JSON
+// Lista fixa de ícones esperados
+const iconNames = ['1', '2', '3', 'bem', 'config', 'info', 'off', 'trocar'];
+
+// Middleware para interpretar JSON
 app.use(express.json());
 
-// Middleware para verificar o token
+// Middleware de autenticação
 const authMiddleware = expressJwt({
   secret: SECRET_KEY,
   algorithms: ['HS256']
-}).unless({
-  path: ['/login', '/routes/soma-total'] // Login e soma não exigem autenticação
-});
+}).unless({ path: ['/login'] });
 
-// Rota para fazer login e gerar o token
+// Rota de login para obter o token
 app.post('/login', (req, res) => {
   const { usuario, senha } = req.body;
 
   if (usuario === 'vitor' && senha === 'spazio3132') {
     const token = jwt.sign({ usuario }, SECRET_KEY, { expiresIn: '1h' });
 
-    return res.json({ 
-      token,
-      iconUrl: `http://localhost:${port}/icons/seu-icone.png` // URL do ícone padrão
-    });
+    return res.json({ token });
   }
 
   return res.status(401).json({ erro: 'Usuário ou senha inválidos.' });
 });
 
-// Diretório onde os arquivos JSON estão armazenados
-const routesPath = path.join(__dirname, 'routes');
+// 🔐 Rota protegida que retorna um JSON no formato {"nome_do_icone": "link"}
+app.get('/icons/lista', authMiddleware, (req, res) => {
+  const iconsDir = path.join(__dirname, 'icons');
 
-// Variável para armazenar os arquivos JSON carregados
-const jsonRoutes = {};
-
-// Carregamento dinâmico dos arquivos JSON e criação das rotas
-fs.readdirSync(routesPath).forEach(file => {
-  if (file.endsWith('.json')) {
-    const routeName = `/routes/${file.replace('.json', '')}`;
-    const filePath = path.join(routesPath, file);
-    const fileContent = require(filePath);
-
-    jsonRoutes[routeName] = fileContent;
-
-    // Criar rota para cada arquivo JSON
-    app.get(routeName, (req, res) => res.json(fileContent));
-    console.log(`Rota criada: GET ${routeName}`);
-  }
-});
-
-// Rota para calcular a soma de todos os itens dentro da chave "servidores"
-app.get('/routes/soma-total', (req, res) => {
-  let somaTotal = 0;
-
-  // Iterar sobre todos os arquivos JSON carregados
-  Object.values(jsonRoutes).forEach(jsonData => {
-    if (jsonData.servidores) {
-      // Para cada arquivo JSON, contar o número de servidores
-      somaTotal += Object.keys(jsonData.servidores).length;
+  fs.readdir(iconsDir, (err, files) => {
+    if (err) {
+      return res.status(500).json({ erro: 'Erro ao listar os ícones.' });
     }
+
+    const iconsList = {};
+
+    // Garante que só os ícones da lista fixa serão incluídos
+    iconNames.forEach(icon => {
+      const file = files.find(f => path.parse(f).name === icon);
+      if (file) {
+        iconsList[icon] = `${BASE_URL}/icons/${file}`;
+      }
+    });
+
+    res.json(iconsList);
   });
-
-  // Retornar o total de servidores contados
-  res.json({ somaTotal });
 });
 
-// 🔐 Rota protegida para servir os ícones
-app.get('/icons/:iconName', authMiddleware, (req, res) => {
-  const iconName = req.params.iconName;
-  const iconPath = path.join(__dirname, 'icons', iconName);
-
-  // Verifica se o arquivo existe
-  if (fs.existsSync(iconPath)) {
-    res.sendFile(iconPath);
-  } else {
-    res.status(404).json({ erro: 'Ícone não encontrado.' });
-  }
-});
-
-// Middleware para tratar erros
+// Middleware para tratar erros de autenticação
 app.use((err, req, res, next) => {
   if (err.name === 'UnauthorizedError') {
     return res.status(401).json({ erro: 'Token inválido ou não fornecido.' });
@@ -95,4 +69,4 @@ app.use((err, req, res, next) => {
 });
 
 // Inicia o servidor
-app.listen(port, () => console.log(`Servidor rodando em http://localhost:${port}`));
+app.listen(port, () => console.log(`Servidor rodando em ${BASE_URL}`));
