@@ -12,9 +12,6 @@ const BASE_URL = 'https://ed331.vercel.app';
 // Chave secreta para autenticação
 const SECRET_KEY = process.env.SECRET_KEY || 'androidx&clubedosfilmes';
 
-// Lista fixa de ícones esperados
-const iconNames = ['1', '2', '3', 'bem', 'config', 'info', 'off', 'trocar'];
-
 // Middleware para interpretar JSON
 app.use(express.json());
 
