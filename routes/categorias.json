@@ -51,6 +51,18 @@
                 "category_id": "7",
                 "category_name": "udplayj.link",
                 "parent_id": 0   
+            },
+
+            {
+                "category_id": "8",
+                "category_name": "cdn.churros.site",
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "9",
+                "category_name": "xcblx.icu",
+                "parent_id": 0   
             }
 
 
