@@ -2,65 +2,71 @@
     
     {
         "category_id": "1",
+        "category_type": "1",
         "category_name": "srv.hostinggon14.xyz",
         "parent_id": 0  
         
     },
         {
             "category_id": "2",
+            "category_type": "2",
             "category_name": "russofv.cc",
             "parent_id": 0 
           },
 
           {
             "category_id": "3",
+            "category_type": "2",
             "category_name": "mais.dnsxc.tv.br",
-            "parent_id": 0   },
+            "parent_id": 0  
+         },
 
             {
                 "category_id": "4",
+                "category_type": "2",
                 "category_name": "ftv.cdn4k.vip",
                 "parent_id": 0   
             },
 
             {
                 "category_id": "5",
+                "category_type": "2",
                 "category_name": "exm3u.123tv.to",
                 "parent_id": 0   
             },
 
             {
                 "category_id": "6",
+                "category_type": "2",
                 "category_name": "ecliente.xyz",
                 "parent_id": 0   
             },
 
+     
             {
                 "category_id": "7",
-                "category_name": "cdn22.cc",
-                "parent_id": 0   
-            },
-
-            {
-                "category_id": "6",
+                "category_type": "2",
                 "category_name": "178.162.197.184",
                 "parent_id": 0   
             },
 
             {
-                "category_id": "7",
+                "category_id": "8",
+                "category_type": "2",
                 "category_name": "udplayj.link",
                 "parent_id": 0   
             },
 
             {
-                "category_id": "8",
+                "category_id": "9",
+                "category_type": "2",
                 "category_name": "cdn.churros.site",
                 "parent_id": 0   
             },
 
             {
-                "category_id": "9",
+                "category_id": "10",
+                "category_type": "2",
                 "category_name": "xcblx.icu",
                 "parent_id": 0   
             }
