@@ -26,7 +26,11 @@ app.post('/login', (req, res) => {
 
   if (usuario === 'vitor' && senha === 'spazio3132') {
     const token = jwt.sign({ usuario }, SECRET_KEY, { expiresIn: '1h' });
-    return res.json({ token });
+
+    return res.json({ 
+      token,
+      iconUrl: `http://localhost:${port}/icons/seu-icone.png` // URL do ícone padrão
+    });
   }
 
   return res.status(401).json({ erro: 'Usuário ou senha inválidos.' });
@@ -66,9 +70,7 @@ app.get('/routes/soma-total', (req, res) => {
   });
 
   // Retornar o total de servidores contados
-  res.json({
-    somaTotal
-  });
+  res.json({ somaTotal });
 });
 
 // 🔐 Rota protegida para servir os ícones
