@@ -70,7 +70,16 @@
                 "category_name": "xcblx.icu",
                 
                 "parent_id": 0   
+            },
+
+            {
+                "category_id": "11",
+                "category_type": "2",
+                "category_name": "wovaer.com",
+                
+                "parent_id": 0   
             }
+
 
 
 
