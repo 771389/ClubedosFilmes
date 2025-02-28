@@ -78,7 +78,22 @@
                 "category_name": "wovaer.com",
                 
                 "parent_id": 0   
+            },
+            {
+                "category_id": "12",
+                "category_type": "2",
+                "category_name": "Vodteste.com",
+                
+                "parent_id": 0   
+            },
+            {
+                "category_id": "13",
+                "category_type": "2",
+                "category_name": "vipy.pro",
+                
+                "parent_id": 0   
             }
+
 
 
 
