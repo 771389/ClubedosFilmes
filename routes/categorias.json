@@ -116,7 +116,25 @@
                 "category_name": "trixlist.xyz",
                 
                 "parent_id": 0   
+            },
+
+            {
+                "category_id": "17",
+                "category_type": "2",
+                "category_name": "curacao-fiber-cdn.com",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "18",
+                "category_type": "2",
+                "category_name": "descerprabc.zip",
+                
+                "parent_id": 0   
             }
+
+
 
 
 
