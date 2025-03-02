@@ -92,7 +92,33 @@
                 "category_name": "vipy.pro",
                 
                 "parent_id": 0   
+            },
+
+            {
+                "category_id": "14",
+                "category_type": "2",
+                "category_name": "hambu.xgoapp.xyz",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "15",
+                "category_type": "2",
+                "category_name": "plonis689.mov",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "16",
+                "category_type": "2",
+                "category_name": "trixlist.xyz",
+                
+                "parent_id": 0   
             }
+
+
 
 
 
