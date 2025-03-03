@@ -195,7 +195,37 @@
                 "category_name": "xciptv.apkwuv.xyz",
                 
                 "parent_id": 0   
+            },
+            {
+                "category_id": "27",
+                "category_type": "2",
+                "category_name": "funsione.com",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "28",
+                "category_type": "2",
+                "category_name": "newbox.com.com",
+                
+                "parent_id": 0   
+            },
+            {
+                "category_id": "29",
+                "category_type": "2",
+                "category_name": "radioburguer.shop.com",
+                
+                "parent_id": 0   
+            },
+            {
+                "category_id": "30",
+                "category_type": "2",
+                "category_name": "xcui.vitvabc.xyz",
+                
+                "parent_id": 0   
             }
+
 
 
 
