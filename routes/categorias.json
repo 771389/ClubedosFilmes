@@ -221,10 +221,85 @@
             {
                 "category_id": "30",
                 "category_type": "2",
-                "category_name": "xcui.vitvabc.xyz",
+                "category_name": "zplivecdn.live",
+                
+                "parent_id": 0   
+            },
+            {
+                "category_id": "31",
+                "category_type": "2",
+                "category_name": "15aera.xyz",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "32",
+                "category_type": "2",
+                "category_name": "cdn.maxcdn.live",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "33",
+                "category_type": "2",
+                "category_name": "dns.1888gyn.click",
+                
+                "parent_id": 0   
+            },
+
+            
+            {
+                "category_id": "34",
+                "category_type": "2",
+                "category_name": "flores.collegefan.org",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "35",
+                "category_type": "2",
+                "category_name": "mdz.mysecuritycamera.com",
+                
+                "parent_id": 0   
+            },
+            {
+                "category_id": "36",
+                "category_type": "2",
+                "category_name": "nitrohd.xyz",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "37",
+                "category_type": "2",
+                "category_name": "relogio10.top",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "38",
+                "category_type": "2",
+                "category_name": "series.homes",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "39",
+                "category_type": "2",
+                "category_name": "virtusz.zapto.org",
                 
                 "parent_id": 0   
             }
+
+
+
+
 
 
 
