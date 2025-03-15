@@ -1,7 +1,7 @@
 {
     "servidores": {
-        "166b1e70-4d3b-4d56-bcdc-3e65bc330276": {
-            "id": "166b1e70-4d3b-4d56-bcdc-3e65bc330276",
+        "77b8d04d-3c8e-4a21-8485-05a3e7c652d4": {
+            "id": "77b8d04d-3c8e-4a21-8485-05a3e7c652d4",
             "servidor": "Servidor 1",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -18,8 +18,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=davidl&password=534529&type=m3u_plus"
         },
-        "63575139-eb0a-4823-96d3-6f4fa255ceaa": {
-            "id": "63575139-eb0a-4823-96d3-6f4fa255ceaa",
+        "9b4bd2f0-ee5c-4d5c-95b0-d2ce1a5fff11": {
+            "id": "9b4bd2f0-ee5c-4d5c-95b0-d2ce1a5fff11",
             "servidor": "Servidor 2",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -36,8 +36,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=andreia100&password=336699&type=m3u_plus"
         },
-        "c8f94701-5856-46a2-9f42-9e443060856d": {
-            "id": "c8f94701-5856-46a2-9f42-9e443060856d",
+        "d343c754-f523-431d-ae0a-f742141c6ab3": {
+            "id": "d343c754-f523-431d-ae0a-f742141c6ab3",
             "servidor": "Servidor 3",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -54,8 +54,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=Rona6203&password=123743&type=m3u_plus"
         },
-        "1ab2658c-0465-4598-9f2c-0e390dfab255": {
-            "id": "1ab2658c-0465-4598-9f2c-0e390dfab255",
+        "707b8e11-25a4-4f9c-b775-18967998424c": {
+            "id": "707b8e11-25a4-4f9c-b775-18967998424c",
             "servidor": "Servidor 4",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -72,8 +72,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md189a&password=abc123ad&type=m3u_plus"
         },
-        "4c6fbd41-c73e-4b31-8a1e-638dcf213c1d": {
-            "id": "4c6fbd41-c73e-4b31-8a1e-638dcf213c1d",
+        "f9df30fb-dd2c-4e20-80b4-44bff3b80311": {
+            "id": "f9df30fb-dd2c-4e20-80b4-44bff3b80311",
             "servidor": "Servidor 5",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -90,8 +90,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mai159&password=092021&type=m3u_plus"
         },
-        "2d6986ac-ca8d-4a07-87b6-89c5ae54ab5e": {
-            "id": "2d6986ac-ca8d-4a07-87b6-89c5ae54ab5e",
+        "f8a5fa6b-d44d-4f65-bbe2-f8a446416cef": {
+            "id": "f8a5fa6b-d44d-4f65-bbe2-f8a446416cef",
             "servidor": "Servidor 6",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -108,8 +108,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=gu35&password=cesinha&type=m3u_plus"
         },
-        "f65f309d-2455-42cc-9d59-8c095a9925bc": {
-            "id": "f65f309d-2455-42cc-9d59-8c095a9925bc",
+        "f32497e4-6905-4842-89f7-14aa30d36118": {
+            "id": "f32497e4-6905-4842-89f7-14aa30d36118",
             "servidor": "Servidor 7",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -126,8 +126,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=sirleisala&password=2030405060&type=m3u_plus"
         },
-        "c28e39ac-a855-43a2-bfb9-3094b355375d": {
-            "id": "c28e39ac-a855-43a2-bfb9-3094b355375d",
+        "ad2e506a-f763-4140-b330-09f9f601fea3": {
+            "id": "ad2e506a-f763-4140-b330-09f9f601fea3",
             "servidor": "Servidor 8",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -144,8 +144,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=LUI009&password=pJ2yfUFTYU&type=m3u_plus"
         },
-        "ca67efa1-3a75-4b2a-8e79-4856a6a62e14": {
-            "id": "ca67efa1-3a75-4b2a-8e79-4856a6a62e14",
+        "a941ac11-9b54-4044-9020-ee3cffdb46dd": {
+            "id": "a941ac11-9b54-4044-9020-ee3cffdb46dd",
             "servidor": "Servidor 9",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -162,8 +162,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=fernanda23&password=fernanda23&type=m3u_plus"
         },
-        "b57a4a8d-fe99-41bf-a15c-667a6d24ff80": {
-            "id": "b57a4a8d-fe99-41bf-a15c-667a6d24ff80",
+        "f48cfc8c-d854-43f1-952d-aef76b99cbd3": {
+            "id": "f48cfc8c-d854-43f1-952d-aef76b99cbd3",
             "servidor": "Servidor 10",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -180,8 +180,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=Luissrita2&password=UO6BPxTOZS&type=m3u_plus"
         },
-        "2d828243-cd2b-465c-a7e6-71cfd08b3445": {
-            "id": "2d828243-cd2b-465c-a7e6-71cfd08b3445",
+        "16b19d6b-1854-4f05-84ec-59364636b978": {
+            "id": "16b19d6b-1854-4f05-84ec-59364636b978",
             "servidor": "Servidor 11",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -198,8 +198,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=gdanielly&password=gdanielly2396&type=m3u_plus"
         },
-        "a8629e0d-21f1-44f2-b464-5b09636f3670": {
-            "id": "a8629e0d-21f1-44f2-b464-5b09636f3670",
+        "30e93d88-66b4-49d3-be03-3b7c3d23705c": {
+            "id": "30e93d88-66b4-49d3-be03-3b7c3d23705c",
             "servidor": "Servidor 12",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -216,8 +216,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=ex112&password=thamires112&type=m3u_plus"
         },
-        "0bb0c148-ae74-42aa-beab-d14b1f00b8b9": {
-            "id": "0bb0c148-ae74-42aa-beab-d14b1f00b8b9",
+        "d521f2f2-ac9b-4622-8471-04241eab0cc2": {
+            "id": "d521f2f2-ac9b-4622-8471-04241eab0cc2",
             "servidor": "Servidor 13",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -234,8 +234,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mai02&password=022020&type=m3u_plus"
         },
-        "54dd30cd-1d64-4098-bc39-696143b6d162": {
-            "id": "54dd30cd-1d64-4098-bc39-696143b6d162",
+        "e00b5f16-286c-444b-b065-871266b60e69": {
+            "id": "e00b5f16-286c-444b-b065-871266b60e69",
             "servidor": "Servidor 14",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -252,8 +252,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md36&password=abc127ad&type=m3u_plus"
         },
-        "190933f9-6248-4efb-99e7-047658f31ae7": {
-            "id": "190933f9-6248-4efb-99e7-047658f31ae7",
+        "fb3a7586-68f6-4416-b9f9-03c304f7b3a8": {
+            "id": "fb3a7586-68f6-4416-b9f9-03c304f7b3a8",
             "servidor": "Servidor 15",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -270,8 +270,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mx687&password=2003&type=m3u_plus"
         },
-        "6c52279d-5f1c-40e7-ac2f-3dbdcedc6f6f": {
-            "id": "6c52279d-5f1c-40e7-ac2f-3dbdcedc6f6f",
+        "69119d7e-c6ef-428e-90a7-e13cc250a1d1": {
+            "id": "69119d7e-c6ef-428e-90a7-e13cc250a1d1",
             "servidor": "Servidor 16",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -288,8 +288,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=RE099&password=EDVALDO099&type=m3u_plus"
         },
-        "b2d442e8-ca47-4a4e-9f8e-3f22dc94f8f3": {
-            "id": "b2d442e8-ca47-4a4e-9f8e-3f22dc94f8f3",
+        "36d708e3-545a-475e-92da-8a281dee4340": {
+            "id": "36d708e3-545a-475e-92da-8a281dee4340",
             "servidor": "Servidor 17",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -306,8 +306,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md827a&password=abc124ad&type=m3u_plus"
         },
-        "736c7746-cced-42e6-ae0b-4fa6187ec78a": {
-            "id": "736c7746-cced-42e6-ae0b-4fa6187ec78a",
+        "ab6ee66b-03ca-424b-a71a-22c4248d9da4": {
+            "id": "ab6ee66b-03ca-424b-a71a-22c4248d9da4",
             "servidor": "Servidor 18",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -324,8 +324,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mx95&password=2005&type=m3u_plus"
         },
-        "63becc37-b964-488d-9ead-891b06620079": {
-            "id": "63becc37-b964-488d-9ead-891b06620079",
+        "0707a7a1-a1ed-4bea-a077-3c3686c10726": {
+            "id": "0707a7a1-a1ed-4bea-a077-3c3686c10726",
             "servidor": "Servidor 19",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -342,8 +342,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=RE099&password=Edvaldo099&type=m3u_plus"
         },
-        "643d75db-dea9-440e-afcd-e003d0f812a1": {
-            "id": "643d75db-dea9-440e-afcd-e003d0f812a1",
+        "c813dbaf-3af9-4974-a376-64cf76af8d37": {
+            "id": "c813dbaf-3af9-4974-a376-64cf76af8d37",
             "servidor": "Servidor 20",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -360,8 +360,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md1069a&password=abc128ad&type=m3u_plus"
         },
-        "8ecc3d16-68fd-4f87-8574-efc7a1d227b6": {
-            "id": "8ecc3d16-68fd-4f87-8574-efc7a1d227b6",
+        "518928e7-8c5a-45e6-8fb2-738e400c8cc7": {
+            "id": "518928e7-8c5a-45e6-8fb2-738e400c8cc7",
             "servidor": "Servidor 21",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -378,8 +378,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=elizangelapeixoto&password=336699&type=m3u_plus"
         },
-        "40ca22d4-5519-453a-8006-1ed8af05b33c": {
-            "id": "40ca22d4-5519-453a-8006-1ed8af05b33c",
+        "e5db6d3c-4eb8-40a4-b8a8-306a3f03edd9": {
+            "id": "e5db6d3c-4eb8-40a4-b8a8-306a3f03edd9",
             "servidor": "Servidor 22",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -396,8 +396,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=Cliente067&password=Milady2&type=m3u_plus"
         },
-        "9ca72fb9-923b-48c3-8b00-87fb95cf8c02": {
-            "id": "9ca72fb9-923b-48c3-8b00-87fb95cf8c02",
+        "62d2340c-bfc4-42db-b30a-7f3bd993970b": {
+            "id": "62d2340c-bfc4-42db-b30a-7f3bd993970b",
             "servidor": "Servidor 23",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -414,8 +414,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=fabio09&password=091122&type=m3u_plus"
         },
-        "1615f1e4-9625-416e-a48f-d491bd766925": {
-            "id": "1615f1e4-9625-416e-a48f-d491bd766925",
+        "bb1be342-09d7-4362-8c72-d83c3eff5ab0": {
+            "id": "bb1be342-09d7-4362-8c72-d83c3eff5ab0",
             "servidor": "Servidor 24",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -432,8 +432,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md364a&password=abc237ad&type=m3u_plus"
         },
-        "b9f4c51e-5bef-462c-b595-8846debf879b": {
-            "id": "b9f4c51e-5bef-462c-b595-8846debf879b",
+        "be6eafe3-329b-4531-b9ce-54b7f3eab493": {
+            "id": "be6eafe3-329b-4531-b9ce-54b7f3eab493",
             "servidor": "Servidor 25",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -450,8 +450,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=LUI011&password=LQUaIjjKGW&type=m3u_plus"
         },
-        "68b46e98-e6c4-4a86-9d4d-f144245941d4": {
-            "id": "68b46e98-e6c4-4a86-9d4d-f144245941d4",
+        "daacd71e-b130-47d3-9da8-c7ca43dbc481": {
+            "id": "daacd71e-b130-47d3-9da8-c7ca43dbc481",
             "servidor": "Servidor 26",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -468,8 +468,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=d1294lucas.laz&password=iboplayerpro&type=m3u_plus"
         },
-        "62ad25f7-744d-40ed-8298-3c668a293881": {
-            "id": "62ad25f7-744d-40ed-8298-3c668a293881",
+        "e31ff75b-365b-4745-8924-42197f12ad87": {
+            "id": "e31ff75b-365b-4745-8924-42197f12ad87",
             "servidor": "Servidor 27",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -486,8 +486,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=ex156&password=maricao&type=m3u_plus"
         },
-        "abd85430-d534-4994-8a61-f95ba3263256": {
-            "id": "abd85430-d534-4994-8a61-f95ba3263256",
+        "c86ae11f-3484-44bd-80f4-493fb8ad79f2": {
+            "id": "c86ae11f-3484-44bd-80f4-493fb8ad79f2",
             "servidor": "Servidor 28",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -504,8 +504,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=LCE03&password=101123&type=m3u_plus"
         },
-        "34e286c0-f110-40f5-95bf-5bea335ceedb": {
-            "id": "34e286c0-f110-40f5-95bf-5bea335ceedb",
+        "7e371c88-722c-419d-b7ac-e87094e483a0": {
+            "id": "7e371c88-722c-419d-b7ac-e87094e483a0",
             "servidor": "Servidor 29",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -522,8 +522,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=loja202001&password=12345678&type=m3u_plus"
         },
-        "6a47393b-565f-4691-a891-9996e89db8d6": {
-            "id": "6a47393b-565f-4691-a891-9996e89db8d6",
+        "ce0f283a-b570-4d3a-8aaf-80efc2b08734": {
+            "id": "ce0f283a-b570-4d3a-8aaf-80efc2b08734",
             "servidor": "Servidor 30",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -540,8 +540,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=veraan&password=215678&type=m3u_plus"
         },
-        "57f070f6-12b1-48c1-ada5-716badfb684b": {
-            "id": "57f070f6-12b1-48c1-ada5-716badfb684b",
+        "229c5a24-fa8f-422f-9d21-197ad3e9e77b": {
+            "id": "229c5a24-fa8f-422f-9d21-197ad3e9e77b",
             "servidor": "Servidor 31",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -558,8 +558,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mx106&password=2008&type=m3u_plus"
         },
-        "88ffdb20-0b53-47e1-9ff9-9b9dea15be15": {
-            "id": "88ffdb20-0b53-47e1-9ff9-9b9dea15be15",
+        "0c3794ed-ae08-4ac1-9d69-e451cd3ce6c8": {
+            "id": "0c3794ed-ae08-4ac1-9d69-e451cd3ce6c8",
             "servidor": "Servidor 32",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -576,8 +576,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=ex257&password=serginhoex257&type=m3u_plus"
         },
-        "0e60bee4-c9a0-4bc4-b2f7-6d90979727f3": {
-            "id": "0e60bee4-c9a0-4bc4-b2f7-6d90979727f3",
+        "17ebb631-d6d8-4a42-8a36-2eabe0544dfd": {
+            "id": "17ebb631-d6d8-4a42-8a36-2eabe0544dfd",
             "servidor": "Servidor 33",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -594,8 +594,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=juliano31&password=12345678&type=m3u_plus"
         },
-        "7a725109-2bac-4df1-bd05-242e95c729f9": {
-            "id": "7a725109-2bac-4df1-bd05-242e95c729f9",
+        "53d4cb99-3a5b-41e3-ad4b-eec9b863e4ee": {
+            "id": "53d4cb99-3a5b-41e3-ad4b-eec9b863e4ee",
             "servidor": "Servidor 34",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -612,8 +612,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=fabio2505&password=996633&type=m3u_plus"
         },
-        "0b76a097-8039-466c-b566-2cea6bd5f8a1": {
-            "id": "0b76a097-8039-466c-b566-2cea6bd5f8a1",
+        "c38c3814-357f-4abc-a548-d41d43d044ff": {
+            "id": "c38c3814-357f-4abc-a548-d41d43d044ff",
             "servidor": "Servidor 35",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -630,8 +630,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mx576&password=2007&type=m3u_plus"
         },
-        "30b77a50-076e-4d22-9cfb-4042d70d598b": {
-            "id": "30b77a50-076e-4d22-9cfb-4042d70d598b",
+        "dabadc03-e714-449c-88aa-770cac5e3acc": {
+            "id": "dabadc03-e714-449c-88aa-770cac5e3acc",
             "servidor": "Servidor 36",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -648,8 +648,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md1307&password=147147xvz&type=m3u_plus"
         },
-        "aabb0c0d-d868-4b4a-8a5a-9cd4a65079a8": {
-            "id": "aabb0c0d-d868-4b4a-8a5a-9cd4a65079a8",
+        "7eff0dad-7b0e-49aa-a465-58c7b0d1a1bb": {
+            "id": "7eff0dad-7b0e-49aa-a465-58c7b0d1a1bb",
             "servidor": "Servidor 37",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -666,8 +666,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md831a&password=abc124ad&type=m3u_plus"
         },
-        "3c2f471b-2861-4998-9bce-9bb56c63747e": {
-            "id": "3c2f471b-2861-4998-9bce-9bb56c63747e",
+        "5c389721-990b-420a-a3bd-0f1d4b429ec2": {
+            "id": "5c389721-990b-420a-a3bd-0f1d4b429ec2",
             "servidor": "Servidor 38",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -684,8 +684,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md981a&password=abc124ad&type=m3u_plus"
         },
-        "00c6186a-3f03-45ab-88ca-d758a75a2306": {
-            "id": "00c6186a-3f03-45ab-88ca-d758a75a2306",
+        "c1541f7e-57ac-449a-8364-62fc275035b2": {
+            "id": "c1541f7e-57ac-449a-8364-62fc275035b2",
             "servidor": "Servidor 39",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -702,8 +702,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=esdras1&password=Esdras1&type=m3u_plus"
         },
-        "bb6ed078-2acf-4668-b502-ee7b4e7dbc38": {
-            "id": "bb6ed078-2acf-4668-b502-ee7b4e7dbc38",
+        "510d5e56-d08b-4045-9598-817682b77965": {
+            "id": "510d5e56-d08b-4045-9598-817682b77965",
             "servidor": "Servidor 40",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -720,8 +720,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md371a&password=abc123ad&type=m3u_plus"
         },
-        "2362503f-bc3b-421c-b7fb-86858a852cd5": {
-            "id": "2362503f-bc3b-421c-b7fb-86858a852cd5",
+        "e86bb608-235a-4cf3-bf6c-9c6c71ca6df0": {
+            "id": "e86bb608-235a-4cf3-bf6c-9c6c71ca6df0",
             "servidor": "Servidor 41",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -738,8 +738,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=jucell03&password=alebigoto03&type=m3u_plus"
         },
-        "d5679c1a-8242-4f5f-ad5a-2fa2012bf5f7": {
-            "id": "d5679c1a-8242-4f5f-ad5a-2fa2012bf5f7",
+        "1f6c8f5b-ab56-467e-bcf4-9ed9ea5e5608": {
+            "id": "1f6c8f5b-ab56-467e-bcf4-9ed9ea5e5608",
             "servidor": "Servidor 42",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -756,8 +756,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md531a&password=abc123ad&type=m3u_plus"
         },
-        "059d860a-b892-45c3-8da2-eb3633540169": {
-            "id": "059d860a-b892-45c3-8da2-eb3633540169",
+        "8429f502-901a-4434-884f-2d7dbf11c8dc": {
+            "id": "8429f502-901a-4434-884f-2d7dbf11c8dc",
             "servidor": "Servidor 43",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -774,8 +774,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md301a&password=abc123ad&type=m3u_plus"
         },
-        "ce6ffbe5-1015-406c-8008-06f39bcdedb8": {
-            "id": "ce6ffbe5-1015-406c-8008-06f39bcdedb8",
+        "6b78be11-a2ac-4ffc-a5fc-f1d3396d171f": {
+            "id": "6b78be11-a2ac-4ffc-a5fc-f1d3396d171f",
             "servidor": "Servidor 44",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -792,8 +792,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=fw194&password=150322&type=m3u_plus"
         },
-        "ad6f423b-beb5-48d7-ac41-1995c1025c50": {
-            "id": "ad6f423b-beb5-48d7-ac41-1995c1025c50",
+        "e6120fe6-e3d5-400b-898d-a3c475987edc": {
+            "id": "e6120fe6-e3d5-400b-898d-a3c475987edc",
             "servidor": "Servidor 45",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -810,8 +810,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md470a&password=abc123ad&type=m3u_plus"
         },
-        "92a02438-97cd-40fa-b0a7-d5872011ef58": {
-            "id": "92a02438-97cd-40fa-b0a7-d5872011ef58",
+        "1641e093-07ff-407e-950d-a25e2213b20d": {
+            "id": "1641e093-07ff-407e-950d-a25e2213b20d",
             "servidor": "Servidor 46",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -828,8 +828,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md560a&password=abc123ad&type=m3u_plus"
         },
-        "ea46d2a5-fd18-47fb-9560-280037a2f6e1": {
-            "id": "ea46d2a5-fd18-47fb-9560-280037a2f6e1",
+        "60c578ce-b0c1-4062-850a-90d7c80d8f6d": {
+            "id": "60c578ce-b0c1-4062-850a-90d7c80d8f6d",
             "servidor": "Servidor 47",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -846,8 +846,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md980a&password=abc124ad&type=m3u_plus"
         },
-        "31aa3772-835b-4e33-8d38-76866d885ce8": {
-            "id": "31aa3772-835b-4e33-8d38-76866d885ce8",
+        "e55140b3-385d-4090-adef-c878279efc8b": {
+            "id": "e55140b3-385d-4090-adef-c878279efc8b",
             "servidor": "Servidor 48",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -864,8 +864,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md226a&password=abc123ad&type=m3u_plus"
         },
-        "279776d8-beed-4140-afb8-e1677c9a2fab": {
-            "id": "279776d8-beed-4140-afb8-e1677c9a2fab",
+        "e287bdae-6e6c-4829-b598-f9cd80b50511": {
+            "id": "e287bdae-6e6c-4829-b598-f9cd80b50511",
             "servidor": "Servidor 49",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -882,8 +882,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=Renildoalvesdasilva&password=996633&type=m3u_plus"
         },
-        "9623a48b-f459-4967-87ed-ff3413ffcf5f": {
-            "id": "9623a48b-f459-4967-87ed-ff3413ffcf5f",
+        "bbc2c62b-c9ee-41f1-87ef-79c271c5e7a4": {
+            "id": "bbc2c62b-c9ee-41f1-87ef-79c271c5e7a4",
             "servidor": "Servidor 50",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -900,8 +900,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=max557&password=971120503&type=m3u_plus"
         },
-        "d5455858-2102-4d10-afd1-07fa117899c5": {
-            "id": "d5455858-2102-4d10-afd1-07fa117899c5",
+        "6df4af39-ad18-4735-a3c7-41c0cba57e9f": {
+            "id": "6df4af39-ad18-4735-a3c7-41c0cba57e9f",
             "servidor": "Servidor 51",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -918,8 +918,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md186a&password=abc123ad&type=m3u_plus"
         },
-        "06ad950f-ed27-476b-a494-659812c77d25": {
-            "id": "06ad950f-ed27-476b-a494-659812c77d25",
+        "889e5539-315b-4922-850b-723af1ce918f": {
+            "id": "889e5539-315b-4922-850b-723af1ce918f",
             "servidor": "Servidor 52",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -936,8 +936,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=ram141&password=1412020&type=m3u_plus"
         },
-        "3145d503-27a5-4035-a9e7-d517aa9e8619": {
-            "id": "3145d503-27a5-4035-a9e7-d517aa9e8619",
+        "05654e1d-6c99-486b-9dbb-b5fa583fd620": {
+            "id": "05654e1d-6c99-486b-9dbb-b5fa583fd620",
             "servidor": "Servidor 53",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -954,8 +954,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md1216a&password=abc124ad&type=m3u_plus"
         },
-        "c37a344e-8289-4348-a29c-fbd60ab172f7": {
-            "id": "c37a344e-8289-4348-a29c-fbd60ab172f7",
+        "db227e18-c5b3-4d85-9da0-093ade90bd66": {
+            "id": "db227e18-c5b3-4d85-9da0-093ade90bd66",
             "servidor": "Servidor 54",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -972,8 +972,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=fw629&password=12345678&type=m3u_plus"
         },
-        "6bb2ba59-1590-4e15-bb47-5e21dc930044": {
-            "id": "6bb2ba59-1590-4e15-bb47-5e21dc930044",
+        "b473d7dc-4846-4737-957b-dfcc1942dc61": {
+            "id": "b473d7dc-4846-4737-957b-dfcc1942dc61",
             "servidor": "Servidor 55",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -990,8 +990,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=claudioan&password=457689&type=m3u_plus"
         },
-        "7bcaadc0-de6c-467e-9d11-b811e158a0ce": {
-            "id": "7bcaadc0-de6c-467e-9d11-b811e158a0ce",
+        "e28c0aae-732f-4b7b-98d7-f6acbd9f343b": {
+            "id": "e28c0aae-732f-4b7b-98d7-f6acbd9f343b",
             "servidor": "Servidor 56",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1008,8 +1008,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=f671245&password=f671246&type=m3u_plus"
         },
-        "9d45eba5-f11f-411a-9f1d-8e3df647a7e4": {
-            "id": "9d45eba5-f11f-411a-9f1d-8e3df647a7e4",
+        "20aff104-57b2-4e6d-ad81-8e579f12ef78": {
+            "id": "20aff104-57b2-4e6d-ad81-8e579f12ef78",
             "servidor": "Servidor 57",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1026,8 +1026,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md751a&password=abc125ad&type=m3u_plus"
         },
-        "b44576ea-e995-4de0-b3aa-7fa2ec1b2945": {
-            "id": "b44576ea-e995-4de0-b3aa-7fa2ec1b2945",
+        "5e415889-e686-4058-91ef-ed87947c6b10": {
+            "id": "5e415889-e686-4058-91ef-ed87947c6b10",
             "servidor": "Servidor 58",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1044,8 +1044,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md392a&password=abc123ad&type=m3u_plus"
         },
-        "5b0867ae-e615-4ced-871f-fb99391cdc16": {
-            "id": "5b0867ae-e615-4ced-871f-fb99391cdc16",
+        "be395957-758d-4f73-b9db-4255f678c636": {
+            "id": "be395957-758d-4f73-b9db-4255f678c636",
             "servidor": "Servidor 59",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1062,8 +1062,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md022a&password=abc123ad&type=m3u_plus"
         },
-        "f50e945b-1a45-45ef-80f8-2361d3e3e692": {
-            "id": "f50e945b-1a45-45ef-80f8-2361d3e3e692",
+        "39068c7d-7584-455e-b630-d820275ef78a": {
+            "id": "39068c7d-7584-455e-b630-d820275ef78a",
             "servidor": "Servidor 60",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1080,8 +1080,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mx691&password=2004&type=m3u_plus"
         },
-        "dbabb833-05c8-4904-9822-3d0ac7f4c456": {
-            "id": "dbabb833-05c8-4904-9822-3d0ac7f4c456",
+        "27fda0b5-7de0-4bf3-8067-6616bdb55882": {
+            "id": "27fda0b5-7de0-4bf3-8067-6616bdb55882",
             "servidor": "Servidor 61",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1098,8 +1098,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=rona1283&password=123632&type=m3u_plus"
         },
-        "16a6c030-9098-4299-a036-a5e254b983b1": {
-            "id": "16a6c030-9098-4299-a036-a5e254b983b1",
+        "a20ee008-b2a4-4f54-8e48-224ae6129143": {
+            "id": "a20ee008-b2a4-4f54-8e48-224ae6129143",
             "servidor": "Servidor 62",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1116,8 +1116,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=Cliente016&password=Guinhaa&type=m3u_plus"
         },
-        "2d49fff2-503f-4dab-8909-ceff777835ec": {
-            "id": "2d49fff2-503f-4dab-8909-ceff777835ec",
+        "5e292990-5b64-4055-a4ab-f699a5a7a369": {
+            "id": "5e292990-5b64-4055-a4ab-f699a5a7a369",
             "servidor": "Servidor 63",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1134,8 +1134,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=gu77&password=anderson77&type=m3u_plus"
         },
-        "27058899-0a52-4abf-8d33-059e6a237482": {
-            "id": "27058899-0a52-4abf-8d33-059e6a237482",
+        "5a29ac63-ad7c-400d-a037-97848fe0492a": {
+            "id": "5a29ac63-ad7c-400d-a037-97848fe0492a",
             "servidor": "Servidor 64",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1152,8 +1152,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md737a&password=abc125ad&type=m3u_plus"
         },
-        "8bbdc20f-1c64-4857-b0c2-b813e1e2b99d": {
-            "id": "8bbdc20f-1c64-4857-b0c2-b813e1e2b99d",
+        "19b0452f-bd46-4be9-a1f6-52a25e64b065": {
+            "id": "19b0452f-bd46-4be9-a1f6-52a25e64b065",
             "servidor": "Servidor 65",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1170,8 +1170,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=1432361&password=123512&type=m3u_plus"
         },
-        "b99cadd4-1f71-4d77-af4a-8cd727dcf630": {
-            "id": "b99cadd4-1f71-4d77-af4a-8cd727dcf630",
+        "61255f3e-a65a-466e-92d1-dec4f22614c6": {
+            "id": "61255f3e-a65a-466e-92d1-dec4f22614c6",
             "servidor": "Servidor 66",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1188,8 +1188,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md506a&password=abc126ad&type=m3u_plus"
         },
-        "a146b8ec-69b3-4939-ac87-e9494a98f166": {
-            "id": "a146b8ec-69b3-4939-ac87-e9494a98f166",
+        "f5997935-fe02-4667-844c-1699cd1845f5": {
+            "id": "f5997935-fe02-4667-844c-1699cd1845f5",
             "servidor": "Servidor 67",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1206,8 +1206,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=fw537&password=12345678&type=m3u_plus"
         },
-        "8f5d2f42-49b7-4e2a-bea9-c039001dc474": {
-            "id": "8f5d2f42-49b7-4e2a-bea9-c039001dc474",
+        "29bebd0e-f461-4089-87d6-3986deef38db": {
+            "id": "29bebd0e-f461-4089-87d6-3986deef38db",
             "servidor": "Servidor 68",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1224,8 +1224,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=gu157&password=rosanavagui&type=m3u_plus"
         },
-        "7daeda0e-17c2-4820-9a8b-2aec196d9adf": {
-            "id": "7daeda0e-17c2-4820-9a8b-2aec196d9adf",
+        "6823e65e-dab3-4078-ad60-2dcd2573715b": {
+            "id": "6823e65e-dab3-4078-ad60-2dcd2573715b",
             "servidor": "Servidor 69",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1242,8 +1242,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=penafaisca&password=872563895&type=m3u_plus"
         },
-        "9efae222-41e9-4a6a-b6d3-77b35f9c06a0": {
-            "id": "9efae222-41e9-4a6a-b6d3-77b35f9c06a0",
+        "f9df384a-9c46-48da-885f-6f9d023fa059": {
+            "id": "f9df384a-9c46-48da-885f-6f9d023fa059",
             "servidor": "Servidor 70",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1260,8 +1260,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=123123123&password=85904697&type=m3u_plus"
         },
-        "5323185d-faca-4124-bc23-6898baeefc7f": {
-            "id": "5323185d-faca-4124-bc23-6898baeefc7f",
+        "0ba3edbe-3e1a-4217-9447-26ef8d1266c9": {
+            "id": "0ba3edbe-3e1a-4217-9447-26ef8d1266c9",
             "servidor": "Servidor 71",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1278,8 +1278,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=eliane123&password=eliane123&type=m3u_plus"
         },
-        "6b745a0f-d5f5-4248-96c5-db7e0d1ab831": {
-            "id": "6b745a0f-d5f5-4248-96c5-db7e0d1ab831",
+        "91afa945-b0b2-4364-9e97-0cd062450aef": {
+            "id": "91afa945-b0b2-4364-9e97-0cd062450aef",
             "servidor": "Servidor 72",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1296,8 +1296,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=C517&password=2040&type=m3u_plus"
         },
-        "a7d812cc-e64a-408d-90f2-361ba2e6fecd": {
-            "id": "a7d812cc-e64a-408d-90f2-361ba2e6fecd",
+        "29a1db97-2e45-410b-882f-a8e7836b93ff": {
+            "id": "29a1db97-2e45-410b-882f-a8e7836b93ff",
             "servidor": "Servidor 73",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1314,8 +1314,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md387a&password=abc123ad&type=m3u_plus"
         },
-        "3993effa-cf73-419e-8a8a-237eabed9584": {
-            "id": "3993effa-cf73-419e-8a8a-237eabed9584",
+        "7137d3ac-7f49-426d-b690-14557858d425": {
+            "id": "7137d3ac-7f49-426d-b690-14557858d425",
             "servidor": "Servidor 74",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1332,8 +1332,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md047a&password=abc123ad&type=m3u_plus"
         },
-        "4c0f39b3-4a62-4acf-9359-34f80b9c1344": {
-            "id": "4c0f39b3-4a62-4acf-9359-34f80b9c1344",
+        "ea35c90b-d27b-4731-9684-61d1609a8d7b": {
+            "id": "ea35c90b-d27b-4731-9684-61d1609a8d7b",
             "servidor": "Servidor 75",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1350,8 +1350,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=jairtv23&password=410385&type=m3u_plus"
         },
-        "1385e39a-3c8a-4e13-a355-418f3c7f4558": {
-            "id": "1385e39a-3c8a-4e13-a355-418f3c7f4558",
+        "5c9b7960-a21b-4d59-9f4b-5c6f80dd9b4f": {
+            "id": "5c9b7960-a21b-4d59-9f4b-5c6f80dd9b4f",
             "servidor": "Servidor 76",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1368,8 +1368,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md377a&password=abc123ad&type=m3u_plus"
         },
-        "c7f19830-95b5-4254-a8f5-e37b4cf99f5d": {
-            "id": "c7f19830-95b5-4254-a8f5-e37b4cf99f5d",
+        "5a4d1bbb-ef5e-489c-8dad-37e9da9bebe8": {
+            "id": "5a4d1bbb-ef5e-489c-8dad-37e9da9bebe8",
             "servidor": "Servidor 77",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1386,8 +1386,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md710a&password=abc128ad&type=m3u_plus"
         },
-        "ff84bd62-0a53-4692-845a-b852ba5166fa": {
-            "id": "ff84bd62-0a53-4692-845a-b852ba5166fa",
+        "bb7ad4fa-798c-48fd-a042-2dc54b47d992": {
+            "id": "bb7ad4fa-798c-48fd-a042-2dc54b47d992",
             "servidor": "Servidor 78",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1404,8 +1404,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=luis0809&password=996633&type=m3u_plus"
         },
-        "ddd1f244-497c-462d-9217-b019b9fdcdf7": {
-            "id": "ddd1f244-497c-462d-9217-b019b9fdcdf7",
+        "b112079e-e09c-40c8-958e-54129e782b7b": {
+            "id": "b112079e-e09c-40c8-958e-54129e782b7b",
             "servidor": "Servidor 79",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1422,8 +1422,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=debo4425&password=123456&type=m3u_plus"
         },
-        "b4de3abf-0d1c-4fe8-8e8f-d2e3de07cbf1": {
-            "id": "b4de3abf-0d1c-4fe8-8e8f-d2e3de07cbf1",
+        "6202c606-7e7b-4214-90d4-6e85ad555942": {
+            "id": "6202c606-7e7b-4214-90d4-6e85ad555942",
             "servidor": "Servidor 80",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1440,8 +1440,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md855a&password=abc125ad&type=m3u_plus"
         },
-        "41266f57-62e5-4d83-b189-dc81feba7bed": {
-            "id": "41266f57-62e5-4d83-b189-dc81feba7bed",
+        "a839b119-f3ee-4c5c-9483-eaa46657b212": {
+            "id": "a839b119-f3ee-4c5c-9483-eaa46657b212",
             "servidor": "Servidor 81",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1458,8 +1458,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mx306&password=081024&type=m3u_plus"
         },
-        "ac44ba9d-5a46-4fbf-8b0b-83c315ef78fb": {
-            "id": "ac44ba9d-5a46-4fbf-8b0b-83c315ef78fb",
+        "535a8e79-2bf0-4c88-9783-7be5e65ef1c7": {
+            "id": "535a8e79-2bf0-4c88-9783-7be5e65ef1c7",
             "servidor": "Servidor 82",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1476,8 +1476,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=jucell56&password=lurdes56&type=m3u_plus"
         },
-        "237faaa5-dd15-49da-be51-796c9c00fdbe": {
-            "id": "237faaa5-dd15-49da-be51-796c9c00fdbe",
+        "f9955a06-d5e0-48dd-9e84-3aaf7570b654": {
+            "id": "f9955a06-d5e0-48dd-9e84-3aaf7570b654",
             "servidor": "Servidor 83",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1494,8 +1494,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md944a&password=abc125ad&type=m3u_plus"
         },
-        "8dd880bf-0ad5-4ca3-a7c0-8a5eb894aa70": {
-            "id": "8dd880bf-0ad5-4ca3-a7c0-8a5eb894aa70",
+        "0c5efed6-3245-4c4d-b405-db9bb8c21c62": {
+            "id": "0c5efed6-3245-4c4d-b405-db9bb8c21c62",
             "servidor": "Servidor 84",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1512,8 +1512,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=d1298marcelo&password=praia160323&type=m3u_plus"
         },
-        "a178277f-cd19-474e-8188-1ceab1c08795": {
-            "id": "a178277f-cd19-474e-8188-1ceab1c08795",
+        "a1512b13-48ea-4296-86c2-916d6adec2a6": {
+            "id": "a1512b13-48ea-4296-86c2-916d6adec2a6",
             "servidor": "Servidor 85",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1530,8 +1530,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md964a&password=abc125ad&type=m3u_plus"
         },
-        "20542712-f900-4ad4-b292-854ab0f685f7": {
-            "id": "20542712-f900-4ad4-b292-854ab0f685f7",
+        "09bedc29-0cdb-4fcf-93c2-794cb7788064": {
+            "id": "09bedc29-0cdb-4fcf-93c2-794cb7788064",
             "servidor": "Servidor 86",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1548,8 +1548,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mxw13&password=011022&type=m3u_plus"
         },
-        "0af1a4de-d60e-4d91-8c4d-36b77d791332": {
-            "id": "0af1a4de-d60e-4d91-8c4d-36b77d791332",
+        "db75379a-ea57-4e2c-9c33-b92313488184": {
+            "id": "db75379a-ea57-4e2c-9c33-b92313488184",
             "servidor": "Servidor 87",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1566,8 +1566,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md854a&password=abc125ad&type=m3u_plus"
         },
-        "d6bc2ee3-797c-4057-aab4-0094acb2a001": {
-            "id": "d6bc2ee3-797c-4057-aab4-0094acb2a001",
+        "2c8e27b1-a7fd-4dc7-bd8b-4948b536cd46": {
+            "id": "2c8e27b1-a7fd-4dc7-bd8b-4948b536cd46",
             "servidor": "Servidor 88",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1584,8 +1584,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md210a&password=abc123ad&type=m3u_plus"
         },
-        "6b20f1a7-7ed5-4dcb-8d32-1e61331c6967": {
-            "id": "6b20f1a7-7ed5-4dcb-8d32-1e61331c6967",
+        "17dcccf2-475e-402e-bd9b-812a0835b31b": {
+            "id": "17dcccf2-475e-402e-bd9b-812a0835b31b",
             "servidor": "Servidor 89",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1602,8 +1602,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md834a&password=abc125ad&type=m3u_plus"
         },
-        "93b2d815-aee9-43b6-83ce-b99a73d75351": {
-            "id": "93b2d815-aee9-43b6-83ce-b99a73d75351",
+        "ada1d2ca-ede1-4ce7-8a81-6cfad56dd29e": {
+            "id": "ada1d2ca-ede1-4ce7-8a81-6cfad56dd29e",
             "servidor": "Servidor 90",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1620,8 +1620,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mx404&password=2005&type=m3u_plus"
         },
-        "21c1f273-5ad6-4df2-9754-dd588e0f2b11": {
-            "id": "21c1f273-5ad6-4df2-9754-dd588e0f2b11",
+        "af886a4b-1d38-49f2-bfcb-d0176e711b4b": {
+            "id": "af886a4b-1d38-49f2-bfcb-d0176e711b4b",
             "servidor": "Servidor 91",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1638,8 +1638,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=d1439&password=thayline.pudim&type=m3u_plus"
         },
-        "b042d8ca-623f-472e-8f97-cfe02c76bfe2": {
-            "id": "b042d8ca-623f-472e-8f97-cfe02c76bfe2",
+        "d222c46c-4047-4b68-8bef-b5bc140e6326": {
+            "id": "d222c46c-4047-4b68-8bef-b5bc140e6326",
             "servidor": "Servidor 92",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1656,8 +1656,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md08a&password=abc124ad&type=m3u_plus"
         },
-        "81a06442-bb0d-4682-b1b5-674903af8c92": {
-            "id": "81a06442-bb0d-4682-b1b5-674903af8c92",
+        "c8f5ce5a-dae7-44e8-afd0-76821ee03f49": {
+            "id": "c8f5ce5a-dae7-44e8-afd0-76821ee03f49",
             "servidor": "Servidor 93",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1674,8 +1674,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=mai70&password=1510&type=m3u_plus"
         },
-        "dfa61cef-e435-433a-88ae-6cfcd919ccc6": {
-            "id": "dfa61cef-e435-433a-88ae-6cfcd919ccc6",
+        "120edfa8-a8da-4444-be82-07230ee2e137": {
+            "id": "120edfa8-a8da-4444-be82-07230ee2e137",
             "servidor": "Servidor 94",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1692,8 +1692,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=md890a&password=abc125ad&type=m3u_plus"
         },
-        "9b4e3560-c922-4621-ae18-11c6662e6253": {
-            "id": "9b4e3560-c922-4621-ae18-11c6662e6253",
+        "0376f966-4daa-4b59-8b98-33a8355b4635": {
+            "id": "0376f966-4daa-4b59-8b98-33a8355b4635",
             "servidor": "Servidor 95",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",
@@ -1710,8 +1710,8 @@
             "quantidade_de_series": 0,
             "m3u_url": "http://zplivecdn.live:80/get.php?username=BMW1796&password=1627zfz5173&type=m3u_plus"
         },
-        "7c263315-d087-47b5-b4a2-860231ee2c93": {
-            "id": "7c263315-d087-47b5-b4a2-860231ee2c93",
+        "b7dd6960-9198-4054-9933-2a9e52577c4d": {
+            "id": "b7dd6960-9198-4054-9933-2a9e52577c4d",
             "servidor": "Servidor 96",
             "painel": "http://zplivecdn.live:80",
             "real": "http://cdnrobot.info",

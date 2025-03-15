@@ -1,9 +1,9 @@
 {
     "servidores": {
-        "03a09dc0-712c-4ad2-ab96-d1566524ed31": {
-            "id": "03a09dc0-712c-4ad2-ab96-d1566524ed31",
+        "984b3fac-9e72-4108-ba17-2a6f2acfe17e": {
+            "id": "984b3fac-9e72-4108-ba17-2a6f2acfe17e",
             "servidor": "Servidor 1",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "971812357",
             "senha": "246137274",
@@ -16,12 +16,12 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=971812357&password=246137274&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=971812357&password=246137274&type=m3u_plus"
         },
-        "fd2bb6e7-178d-4424-a298-dd0ac586d8f6": {
-            "id": "fd2bb6e7-178d-4424-a298-dd0ac586d8f6",
+        "fb6ecff8-2acc-4aa5-a7d5-9002869d8451": {
+            "id": "fb6ecff8-2acc-4aa5-a7d5-9002869d8451",
             "servidor": "Servidor 2",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "81983850400",
             "senha": "vds220979",
@@ -34,30 +34,12 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=81983850400&password=vds220979&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=81983850400&password=vds220979&type=m3u_plus"
         },
-        "7a734a7f-65a1-4fbb-b2fa-0fcde7ee83d6": {
-            "id": "7a734a7f-65a1-4fbb-b2fa-0fcde7ee83d6",
+        "56e357ff-f37e-44a1-bbef-78f29f9822db": {
+            "id": "56e357ff-f37e-44a1-bbef-78f29f9822db",
             "servidor": "Servidor 3",
-            "painel": "http://virtusz.zapto.org:80",
-            "real": "http://snake.ilovecollege.info",
-            "usuario": "carlos01",
-            "senha": "carlos01",
-            "expira_em": "2025-04-05 11:28:21",
-            "conexoes_ativas": 1,
-            "conexoes_maximas": 1,
-            "status": "Active",
-            "mensagem": "817726737122",
-            "timezone": "UTC",
-            "quantidade_de_canais": 965,
-            "quantidade_de_filmes": 21615,
-            "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=carlos01&password=carlos01&type=m3u_plus"
-        },
-        "f2a86733-b423-4188-933f-5cd729379cfe": {
-            "id": "f2a86733-b423-4188-933f-5cd729379cfe",
-            "servidor": "Servidor 4",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "835921517",
             "senha": "368465353",
@@ -70,12 +52,30 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=835921517&password=368465353&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=835921517&password=368465353&type=m3u_plus"
         },
-        "bd9faf74-4064-4fb2-9762-471d57199c19": {
-            "id": "bd9faf74-4064-4fb2-9762-471d57199c19",
+        "8aab42c5-9188-46c2-a6f3-5e90fcdf5259": {
+            "id": "8aab42c5-9188-46c2-a6f3-5e90fcdf5259",
+            "servidor": "Servidor 4",
+            "painel": "http://mdz.mysecuritycamera.com:80",
+            "real": "http://snake.ilovecollege.info",
+            "usuario": "carlos01",
+            "senha": "carlos01",
+            "expira_em": "2025-04-05 11:28:21",
+            "conexoes_ativas": 1,
+            "conexoes_maximas": 1,
+            "status": "Active",
+            "mensagem": "817726737122",
+            "timezone": "UTC",
+            "quantidade_de_canais": 965,
+            "quantidade_de_filmes": 21615,
+            "quantidade_de_series": 0,
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=carlos01&password=carlos01&type=m3u_plus"
+        },
+        "1f150f80-d68e-415d-a0f5-d0196dda9aae": {
+            "id": "1f150f80-d68e-415d-a0f5-d0196dda9aae",
             "servidor": "Servidor 5",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "ronaldo0211",
             "senha": "587483610",
@@ -88,12 +88,12 @@
             "quantidade_de_canais": 894,
             "quantidade_de_filmes": 21298,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=ronaldo0211&password=587483610&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=ronaldo0211&password=587483610&type=m3u_plus"
         },
-        "8c1aa8fc-dc2e-4185-9501-8dce99b905ea": {
-            "id": "8c1aa8fc-dc2e-4185-9501-8dce99b905ea",
+        "06f6405d-2bc1-4466-b5d6-8486bcebb939": {
+            "id": "06f6405d-2bc1-4466-b5d6-8486bcebb939",
             "servidor": "Servidor 6",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "782428270",
             "senha": "276277997",
@@ -106,12 +106,12 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=782428270&password=276277997&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=782428270&password=276277997&type=m3u_plus"
         },
-        "acea3f25-2c13-4853-9aa1-b2adfeec2f9e": {
-            "id": "acea3f25-2c13-4853-9aa1-b2adfeec2f9e",
+        "7e3ac9bf-f73b-4181-a563-086f43f7f9e5": {
+            "id": "7e3ac9bf-f73b-4181-a563-086f43f7f9e5",
             "servidor": "Servidor 7",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "195358735",
             "senha": "818881744",
@@ -124,30 +124,12 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=195358735&password=818881744&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=195358735&password=818881744&type=m3u_plus"
         },
-        "b3cf3a6f-3d2f-4ee7-8745-b156a616faad": {
-            "id": "b3cf3a6f-3d2f-4ee7-8745-b156a616faad",
+        "fdef2408-9f56-4e0b-bfcb-24beb8d56956": {
+            "id": "fdef2408-9f56-4e0b-bfcb-24beb8d56956",
             "servidor": "Servidor 8",
-            "painel": "http://virtusz.zapto.org:80",
-            "real": "http://snake.ilovecollege.info",
-            "usuario": "klauzebonetty",
-            "senha": "1118676",
-            "expira_em": "2025-04-10 19:15:31",
-            "conexoes_ativas": 1,
-            "conexoes_maximas": 1,
-            "status": "Active",
-            "mensagem": "817726737122",
-            "timezone": "UTC",
-            "quantidade_de_canais": 965,
-            "quantidade_de_filmes": 21615,
-            "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=klauzebonetty&password=1118676&type=m3u_plus"
-        },
-        "09ddbcb5-ca86-45e1-8f99-079fba56b2f2": {
-            "id": "09ddbcb5-ca86-45e1-8f99-079fba56b2f2",
-            "servidor": "Servidor 9",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "cinthyamoreyra",
             "senha": "65426967",
@@ -160,12 +142,30 @@
             "quantidade_de_canais": 894,
             "quantidade_de_filmes": 21298,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=cinthyamoreyra&password=65426967&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=cinthyamoreyra&password=65426967&type=m3u_plus"
         },
-        "2c040ba3-0c03-440c-b5b0-ed23403238cb": {
-            "id": "2c040ba3-0c03-440c-b5b0-ed23403238cb",
+        "e3b810fd-ad6b-44de-8eca-9112742f149d": {
+            "id": "e3b810fd-ad6b-44de-8eca-9112742f149d",
+            "servidor": "Servidor 9",
+            "painel": "http://mdz.mysecuritycamera.com:80",
+            "real": "http://snake.ilovecollege.info",
+            "usuario": "klauzebonetty",
+            "senha": "1118676",
+            "expira_em": "2025-04-10 19:15:31",
+            "conexoes_ativas": 1,
+            "conexoes_maximas": 1,
+            "status": "Active",
+            "mensagem": "817726737122",
+            "timezone": "UTC",
+            "quantidade_de_canais": 965,
+            "quantidade_de_filmes": 21615,
+            "quantidade_de_series": 0,
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=klauzebonetty&password=1118676&type=m3u_plus"
+        },
+        "86ebb54a-d258-45df-be53-2ff3c682c507": {
+            "id": "86ebb54a-d258-45df-be53-2ff3c682c507",
             "servidor": "Servidor 10",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "Veronica25",
             "senha": "Veronica25",
@@ -178,12 +178,12 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=Veronica25&password=Veronica25&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=Veronica25&password=Veronica25&type=m3u_plus"
         },
-        "4337103c-67b0-4799-84d4-bc53ba504c80": {
-            "id": "4337103c-67b0-4799-84d4-bc53ba504c80",
+        "0753d956-2c07-47b6-bce6-6b71a6fdca31": {
+            "id": "0753d956-2c07-47b6-bce6-6b71a6fdca31",
             "servidor": "Servidor 11",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "436654458",
             "senha": "339976114",
@@ -196,12 +196,12 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=436654458&password=339976114&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=436654458&password=339976114&type=m3u_plus"
         },
-        "72285b6f-d4f4-4e45-8de9-d4a4d9fd7056": {
-            "id": "72285b6f-d4f4-4e45-8de9-d4a4d9fd7056",
+        "6e7697d8-82cc-42a5-ac4f-c8c5e423b66d": {
+            "id": "6e7697d8-82cc-42a5-ac4f-c8c5e423b66d",
             "servidor": "Servidor 12",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "Upcinetvjoelson",
             "senha": "270197Bia",
@@ -214,30 +214,12 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=Upcinetvjoelson&password=270197Bia&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=Upcinetvjoelson&password=270197Bia&type=m3u_plus"
         },
-        "81d4257f-0c95-4890-a573-44df5e90604f": {
-            "id": "81d4257f-0c95-4890-a573-44df5e90604f",
+        "63dcfe82-9a86-42c1-943a-655ddd02b058": {
+            "id": "63dcfe82-9a86-42c1-943a-655ddd02b058",
             "servidor": "Servidor 13",
-            "painel": "http://virtusz.zapto.org:80",
-            "real": "http://snake.ilovecollege.info",
-            "usuario": "Ricardo123",
-            "senha": "Ricardo123",
-            "expira_em": "2025-09-05 14:59:57",
-            "conexoes_ativas": 1,
-            "conexoes_maximas": 2,
-            "status": "Active",
-            "mensagem": "817726737122",
-            "timezone": "UTC",
-            "quantidade_de_canais": 894,
-            "quantidade_de_filmes": 21298,
-            "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=Ricardo123&password=Ricardo123&type=m3u_plus"
-        },
-        "2610f5f2-1c68-4b8e-a141-38c3d52245d2": {
-            "id": "2610f5f2-1c68-4b8e-a141-38c3d52245d2",
-            "servidor": "Servidor 14",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "639518524",
             "senha": "477296998",
@@ -250,12 +232,30 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=639518524&password=477296998&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=639518524&password=477296998&type=m3u_plus"
         },
-        "ca2a5a29-fe23-4b66-933b-398ee954c319": {
-            "id": "ca2a5a29-fe23-4b66-933b-398ee954c319",
+        "03523eef-ad20-4434-ad3f-de4f85842864": {
+            "id": "03523eef-ad20-4434-ad3f-de4f85842864",
+            "servidor": "Servidor 14",
+            "painel": "http://mdz.mysecuritycamera.com:80",
+            "real": "http://snake.ilovecollege.info",
+            "usuario": "Ricardo123",
+            "senha": "Ricardo123",
+            "expira_em": "2025-09-05 14:59:57",
+            "conexoes_ativas": 1,
+            "conexoes_maximas": 2,
+            "status": "Active",
+            "mensagem": "817726737122",
+            "timezone": "UTC",
+            "quantidade_de_canais": 894,
+            "quantidade_de_filmes": 21298,
+            "quantidade_de_series": 0,
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=Ricardo123&password=Ricardo123&type=m3u_plus"
+        },
+        "9571d84a-64dc-4b35-a3a1-000fb2c462ba": {
+            "id": "9571d84a-64dc-4b35-a3a1-000fb2c462ba",
             "servidor": "Servidor 15",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "ketlenro",
             "senha": "843347110",
@@ -268,30 +268,12 @@
             "quantidade_de_canais": 894,
             "quantidade_de_filmes": 21298,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=ketlenro&password=843347110&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=ketlenro&password=843347110&type=m3u_plus"
         },
-        "9e3929f6-663b-4b12-b5c3-0cbaaf127e17": {
-            "id": "9e3929f6-663b-4b12-b5c3-0cbaaf127e17",
+        "7f857123-78d3-4e50-b234-da89c42f6cc8": {
+            "id": "7f857123-78d3-4e50-b234-da89c42f6cc8",
             "servidor": "Servidor 16",
-            "painel": "http://virtusz.zapto.org:80",
-            "real": "http://snake.ilovecollege.info",
-            "usuario": "136199572",
-            "senha": "524985440",
-            "expira_em": "2025-05-08 21:35:01",
-            "conexoes_ativas": 1,
-            "conexoes_maximas": 1,
-            "status": "Active",
-            "mensagem": "817726737122",
-            "timezone": "UTC",
-            "quantidade_de_canais": 965,
-            "quantidade_de_filmes": 21615,
-            "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=136199572&password=524985440&type=m3u_plus"
-        },
-        "0667bec1-27a1-46b2-8d50-aabdfddc0f58": {
-            "id": "0667bec1-27a1-46b2-8d50-aabdfddc0f58",
-            "servidor": "Servidor 17",
-            "painel": "http://virtusz.zapto.org:80",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "035469",
             "senha": "736066",
@@ -304,30 +286,30 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=035469&password=736066&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=035469&password=736066&type=m3u_plus"
         },
-        "944a9721-75ea-4fe0-93c1-b843b3cfb2f4": {
-            "id": "944a9721-75ea-4fe0-93c1-b843b3cfb2f4",
-            "servidor": "Servidor 18",
-            "painel": "http://virtusz.zapto.org:80",
+        "4532de1d-984f-46bc-9234-17b7efce5a02": {
+            "id": "4532de1d-984f-46bc-9234-17b7efce5a02",
+            "servidor": "Servidor 17",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
-            "usuario": "andreiasp",
-            "senha": "237167732",
-            "expira_em": "2025-04-11 22:21:37",
+            "usuario": "136199572",
+            "senha": "524985440",
+            "expira_em": "2025-05-08 21:35:01",
             "conexoes_ativas": 1,
             "conexoes_maximas": 1,
             "status": "Active",
             "mensagem": "817726737122",
             "timezone": "UTC",
-            "quantidade_de_canais": 894,
-            "quantidade_de_filmes": 21298,
+            "quantidade_de_canais": 965,
+            "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=andreiasp&password=237167732&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=136199572&password=524985440&type=m3u_plus"
         },
-        "58502986-dfb2-4f97-aff0-293621aa4a76": {
-            "id": "58502986-dfb2-4f97-aff0-293621aa4a76",
-            "servidor": "Servidor 19",
-            "painel": "http://virtusz.zapto.org:80",
+        "aee3b357-7d6e-4163-a2c0-a6f56f9f971d": {
+            "id": "aee3b357-7d6e-4163-a2c0-a6f56f9f971d",
+            "servidor": "Servidor 18",
+            "painel": "http://mdz.mysecuritycamera.com:80",
             "real": "http://snake.ilovecollege.info",
             "usuario": "175473583",
             "senha": "643238922",
@@ -340,7 +322,25 @@
             "quantidade_de_canais": 965,
             "quantidade_de_filmes": 21615,
             "quantidade_de_series": 0,
-            "m3u_url": "http://virtusz.zapto.org:80/get.php?username=175473583&password=643238922&type=m3u_plus"
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=175473583&password=643238922&type=m3u_plus"
+        },
+        "07ec7157-6bdb-4470-8808-2d1d96e1eae8": {
+            "id": "07ec7157-6bdb-4470-8808-2d1d96e1eae8",
+            "servidor": "Servidor 19",
+            "painel": "http://mdz.mysecuritycamera.com:80",
+            "real": "http://snake.ilovecollege.info",
+            "usuario": "andreiasp",
+            "senha": "237167732",
+            "expira_em": "2025-04-11 22:21:37",
+            "conexoes_ativas": 1,
+            "conexoes_maximas": 1,
+            "status": "Active",
+            "mensagem": "817726737122",
+            "timezone": "UTC",
+            "quantidade_de_canais": 894,
+            "quantidade_de_filmes": 21298,
+            "quantidade_de_series": 0,
+            "m3u_url": "http://mdz.mysecuritycamera.com:80/get.php?username=andreiasp&password=237167732&type=m3u_plus"
         }
     }
 }
