@@ -206,7 +206,7 @@
 
             {
                 "category_id": "28",
-                "category_type": "2",
+                "category_type": "1",
                 "category_name": "newbox.space",
                 
                 "parent_id": 0   
@@ -252,7 +252,7 @@
             
             {
                 "category_id": "34",
-                "category_type": "2",
+                "category_type": "1",
                 "category_name": "flores.collegefan.org",
                 
                 "parent_id": 0   
@@ -260,7 +260,7 @@
 
             {
                 "category_id": "35",
-                "category_type": "2",
+                "category_type": "1",
                 "category_name": "mdz.mysecuritycamera.com",
                 
                 "parent_id": 0   
@@ -291,7 +291,7 @@
 
             {
                 "category_id": "39",
-                "category_type": "2",
+                "category_type": "1",
                 "category_name": "virtusz.zapto.org",
                 
                 "parent_id": 0   
@@ -347,7 +347,7 @@
 
             {
                 "category_id": "46",
-                "category_type": "2",
+                "category_type": "1",
                 "category_name": "84.16.253.162",
                 
                 "parent_id": 0   
