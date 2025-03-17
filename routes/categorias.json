@@ -295,7 +295,68 @@
                 "category_name": "virtusz.zapto.org",
                 
                 "parent_id": 0   
+            },
+
+            {
+                "category_id": "40",
+                "category_type": "2",
+                "category_name": "cangatrox.com",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "41",
+                "category_type": "2",
+                "category_name": "cdn.upcinetv.me",
+                
+                "parent_id": 0   
+            },
+            {
+                "category_id": "42",
+                "category_type": "2",
+                "category_name": "cnaxtrax.com",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "43",
+                "category_type": "2",
+                "category_name": "goodcine.my",
+                
+                "parent_id": 0   
+            },
+            
+            {
+                "category_id": "44",
+                "category_type": "2",
+                "category_name": "nisay.xyz",
+                
+                "parent_id": 0   
+            },
+
+                 
+            {
+                "category_id": "45",
+                "category_type": "2",
+                "category_name": "toddyx.eu",
+                
+                "parent_id": 0   
+            },
+
+            {
+                "category_id": "46",
+                "category_type": "2",
+                "category_name": "84.16.253.162",
+                
+                "parent_id": 0   
             }
+
+
+
+
+
 
 
 
