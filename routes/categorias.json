@@ -355,14 +355,14 @@
 
             {
                 "category_id": "47",
-                "category_type": "1",
+                "category_type": "2",
                 "category_name": "peercast.sbs",
                 
                 "parent_id": 0   
             },
             {
                 "category_id": "48",
-                "category_type": "1",
+                "category_type": "2",
                 "category_name": "niutu.tel",
                 
                 "parent_id": 0   
@@ -370,7 +370,7 @@
 
             {
                 "category_id": "49",
-                "category_type": "1",
+                "category_type": "2",
                 "category_name": "metallica.click",
                 
                 "parent_id": 0   
@@ -378,7 +378,7 @@
 
             {
                 "category_id": "49",
-                "category_type": "1",
+                "category_type": "2",
                 "category_name": "dnsb.io",
                 
                 "parent_id": 0   
