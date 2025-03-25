@@ -1,14 +1,14 @@
 {
     "servidores": {
-        "be32de79-b8cc-437b-adec-12aeee76d927": {
-            "id": "be32de79-b8cc-437b-adec-12aeee76d927",
+        "f937dc1f-4b11-4b82-a69d-0f5b7059e623": {
+            "id": "f937dc1f-4b11-4b82-a69d-0f5b7059e623",
             "servidor": "Servidor 1",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "LeandroJF",
             "senha": "32991832714",
             "expira_em": "2025-04-11 23:59:59",
-            "conexoes_ativas": 3,
+            "conexoes_ativas": 2,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -17,10 +17,10 @@
             "quantidade_de_filmes": 14216,
             "quantidade_de_series": 4052
         },
-        "48bfc807-6e66-47f8-ad8b-1fdfdde0674e": {
-            "id": "48bfc807-6e66-47f8-ad8b-1fdfdde0674e",
+        "0fa54433-37ba-4f34-a537-f869df239119": {
+            "id": "0fa54433-37ba-4f34-a537-f869df239119",
             "servidor": "Servidor 2",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "thalia01",
             "senha": "691485404",
@@ -34,10 +34,10 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4038
         },
-        "ae8fe029-b797-4b42-aec0-8d6dc7e61672": {
-            "id": "ae8fe029-b797-4b42-aec0-8d6dc7e61672",
+        "927dbf88-b5f6-4ffb-aed1-474b64010540": {
+            "id": "927dbf88-b5f6-4ffb-aed1-474b64010540",
             "servidor": "Servidor 3",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "halysson3535",
             "senha": "vencedor35",
@@ -51,27 +51,10 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4052
         },
-        "96c2f280-6782-499a-bb62-a5a044f0cd91": {
-            "id": "96c2f280-6782-499a-bb62-a5a044f0cd91",
+        "495e3fa2-2f7b-4048-b1c7-3713d7067b27": {
+            "id": "495e3fa2-2f7b-4048-b1c7-3713d7067b27",
             "servidor": "Servidor 4",
-            "painel": "http://cdnseven.xyz:8080",
-            "real": null,
-            "usuario": "Joaol0607",
-            "senha": "Wxmzpayt3",
-            "expira_em": "2025-04-14 23:59:59",
-            "conexoes_ativas": 2,
-            "conexoes_maximas": 1,
-            "status": "ACTIVE",
-            "mensagem": "Deus e Fiel.",
-            "timezone": "America/Sao_Paulo",
-            "quantidade_de_canais": 4937,
-            "quantidade_de_filmes": 15787,
-            "quantidade_de_series": 4052
-        },
-        "271dc9c3-aafd-48d4-b57b-d5080a58ffce": {
-            "id": "271dc9c3-aafd-48d4-b57b-d5080a58ffce",
-            "servidor": "Servidor 5",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "MarceloDelBiancoCanada",
             "senha": "n4dcosap",
@@ -85,15 +68,32 @@
             "quantidade_de_filmes": 15787,
             "quantidade_de_series": 4052
         },
-        "3846ae02-eb36-426e-aa82-f1b31b5dbee2": {
-            "id": "3846ae02-eb36-426e-aa82-f1b31b5dbee2",
+        "ef5d9c0b-939d-4331-8980-e55ab6e88981": {
+            "id": "ef5d9c0b-939d-4331-8980-e55ab6e88981",
+            "servidor": "Servidor 5",
+            "painel": "http://7online.xyz:8080",
+            "real": null,
+            "usuario": "Joaol0607",
+            "senha": "Wxmzpayt3",
+            "expira_em": "2025-04-14 23:59:59",
+            "conexoes_ativas": 3,
+            "conexoes_maximas": 1,
+            "status": "ACTIVE",
+            "mensagem": "Deus e Fiel.",
+            "timezone": "America/Sao_Paulo",
+            "quantidade_de_canais": 4937,
+            "quantidade_de_filmes": 15787,
+            "quantidade_de_series": 4052
+        },
+        "57ad3931-006e-4b96-a626-3085004483f5": {
+            "id": "57ad3931-006e-4b96-a626-3085004483f5",
             "servidor": "Servidor 6",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "tiagomt2",
             "senha": "er4hs4",
             "expira_em": "2025-04-09 23:59:59",
-            "conexoes_ativas": 3,
+            "conexoes_ativas": 5,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -102,15 +102,15 @@
             "quantidade_de_filmes": 14136,
             "quantidade_de_series": 4052
         },
-        "af61c51b-ab94-4e19-a358-cf0a889b732b": {
-            "id": "af61c51b-ab94-4e19-a358-cf0a889b732b",
+        "3b3f0687-0a47-41de-81b2-b1fed6288981": {
+            "id": "3b3f0687-0a47-41de-81b2-b1fed6288981",
             "servidor": "Servidor 7",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "rogeriorossitvz",
             "senha": "165456Kjsas",
             "expira_em": "2025-04-07 23:59:59",
-            "conexoes_ativas": 1,
+            "conexoes_ativas": 0,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -119,10 +119,10 @@
             "quantidade_de_filmes": 15516,
             "quantidade_de_series": 4038
         },
-        "f28560a7-0537-49e5-aff9-9e28c3a50100": {
-            "id": "f28560a7-0537-49e5-aff9-9e28c3a50100",
+        "ac671b69-ccd7-44c0-9999-55d65dac2123": {
+            "id": "ac671b69-ccd7-44c0-9999-55d65dac2123",
             "servidor": "Servidor 8",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "sergiocostatvz",
             "senha": "83748559Keb",
@@ -136,15 +136,15 @@
             "quantidade_de_filmes": 15516,
             "quantidade_de_series": 4038
         },
-        "39bc110f-8020-4870-b9ee-06d80e97b923": {
-            "id": "39bc110f-8020-4870-b9ee-06d80e97b923",
+        "55feee25-76c6-4efd-a1af-be50efeded89": {
+            "id": "55feee25-76c6-4efd-a1af-be50efeded89",
             "servidor": "Servidor 9",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "julia3387",
             "senha": "jpc374856",
             "expira_em": "2025-04-11 23:59:59",
-            "conexoes_ativas": 2,
+            "conexoes_ativas": 0,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -153,10 +153,10 @@
             "quantidade_de_filmes": 13945,
             "quantidade_de_series": 4038
         },
-        "89a774f9-7385-4302-bed4-2f6f57edcf67": {
-            "id": "89a774f9-7385-4302-bed4-2f6f57edcf67",
+        "e5693d0c-ad73-4217-8b87-17ec7054ad27": {
+            "id": "e5693d0c-ad73-4217-8b87-17ec7054ad27",
             "servidor": "Servidor 10",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "Ines.2",
             "senha": "I46962121",
@@ -170,15 +170,15 @@
             "quantidade_de_filmes": 15787,
             "quantidade_de_series": 4052
         },
-        "d8a8db90-e24e-4246-85fa-a268f537c563": {
-            "id": "d8a8db90-e24e-4246-85fa-a268f537c563",
+        "6324149b-8eeb-4b63-9cfc-7807f8b8b76b": {
+            "id": "6324149b-8eeb-4b63-9cfc-7807f8b8b76b",
             "servidor": "Servidor 11",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "JoaoVitor9481",
             "senha": "Jash8137",
             "expira_em": "2025-04-05 23:59:59",
-            "conexoes_ativas": 2,
+            "conexoes_ativas": 1,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -187,10 +187,10 @@
             "quantidade_de_filmes": 14136,
             "quantidade_de_series": 4052
         },
-        "7e8eb2e3-97b1-4467-88c6-86982134d6e4": {
-            "id": "7e8eb2e3-97b1-4467-88c6-86982134d6e4",
+        "5433ffff-f254-40e4-9fcf-8d484ce17f6c": {
+            "id": "5433ffff-f254-40e4-9fcf-8d484ce17f6c",
             "servidor": "Servidor 12",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "PH3IP7",
             "senha": "312403867",
@@ -201,13 +201,13 @@
             "mensagem": "Deus e Fiel.",
             "timezone": "America/Sao_Paulo",
             "quantidade_de_canais": 2631,
-            "quantidade_de_filmes": 15787,
-            "quantidade_de_series": 4052
+            "quantidade_de_filmes": 0,
+            "quantidade_de_series": 0
         },
-        "d713b02d-a414-4063-94a3-1a658e4789ef": {
-            "id": "d713b02d-a414-4063-94a3-1a658e4789ef",
+        "ebf6f4f8-2476-421f-a54a-ac97616b64a0": {
+            "id": "ebf6f4f8-2476-421f-a54a-ac97616b64a0",
             "servidor": "Servidor 13",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "5184317802",
             "senha": "518431bsbm",
@@ -221,15 +221,15 @@
             "quantidade_de_filmes": 14216,
             "quantidade_de_series": 4052
         },
-        "887c43e6-2917-4767-9d2b-b5c912a2a1fc": {
-            "id": "887c43e6-2917-4767-9d2b-b5c912a2a1fc",
+        "7541088b-a02b-4154-8d5f-27cfb64b4c52": {
+            "id": "7541088b-a02b-4154-8d5f-27cfb64b4c52",
             "servidor": "Servidor 14",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "5193271958",
             "senha": "5193271ips1",
             "expira_em": "2026-02-10 23:59:59",
-            "conexoes_ativas": 2,
+            "conexoes_ativas": 10,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -238,15 +238,15 @@
             "quantidade_de_filmes": 15596,
             "quantidade_de_series": 4038
         },
-        "aa965a30-74a7-4a84-88a7-ec15fc42c9f1": {
-            "id": "aa965a30-74a7-4a84-88a7-ec15fc42c9f1",
+        "849494ef-be75-4e02-81be-0c15540be71d": {
+            "id": "849494ef-be75-4e02-81be-0c15540be71d",
             "servidor": "Servidor 15",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "910413140",
             "senha": "508309150",
             "expira_em": "2025-04-21 23:59:59",
-            "conexoes_ativas": 2,
+            "conexoes_ativas": 0,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -255,10 +255,10 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4038
         },
-        "44512049-ca8c-499a-ba32-1df1142c1d99": {
-            "id": "44512049-ca8c-499a-ba32-1df1142c1d99",
+        "366f18f8-c901-458d-88e3-66cd269a51dc": {
+            "id": "366f18f8-c901-458d-88e3-66cd269a51dc",
             "servidor": "Servidor 16",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "@padre23",
             "senha": "@23claudio",
@@ -272,10 +272,10 @@
             "quantidade_de_filmes": 12964,
             "quantidade_de_series": 4038
         },
-        "548d8888-ef41-4e5d-ad3b-297506afb2ff": {
-            "id": "548d8888-ef41-4e5d-ad3b-297506afb2ff",
+        "dcc29e5a-b9b6-45a4-b653-46c42ccbdbdd": {
+            "id": "dcc29e5a-b9b6-45a4-b653-46c42ccbdbdd",
             "servidor": "Servidor 17",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "cristinaitalia",
             "senha": "23414132",
@@ -289,10 +289,10 @@
             "quantidade_de_filmes": 15516,
             "quantidade_de_series": 4038
         },
-        "0aefa76b-6ec9-46b3-a318-6b5205c5c726": {
-            "id": "0aefa76b-6ec9-46b3-a318-6b5205c5c726",
+        "d1f3f9fc-c16f-4a9e-83c4-4332517b6dc9": {
+            "id": "d1f3f9fc-c16f-4a9e-83c4-4332517b6dc9",
             "servidor": "Servidor 18",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "PauloHenriquePolonia",
             "senha": "frtv4343ytu",
@@ -306,15 +306,15 @@
             "quantidade_de_filmes": 14216,
             "quantidade_de_series": 4052
         },
-        "a84897d6-ea17-4130-93fb-04c155ec4162": {
-            "id": "a84897d6-ea17-4130-93fb-04c155ec4162",
+        "3ca5ce97-d2ca-4b11-93e7-6020399d3eef": {
+            "id": "3ca5ce97-d2ca-4b11-93e7-6020399d3eef",
             "servidor": "Servidor 19",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "normaregina",
             "senha": "982451290",
             "expira_em": "2025-04-03 23:59:59",
-            "conexoes_ativas": 1,
+            "conexoes_ativas": 0,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -323,10 +323,10 @@
             "quantidade_de_filmes": 15787,
             "quantidade_de_series": 4052
         },
-        "623fa852-03d0-4434-828a-6e971979c58d": {
-            "id": "623fa852-03d0-4434-828a-6e971979c58d",
+        "bc804597-157e-476e-93a8-b6783335338c": {
+            "id": "bc804597-157e-476e-93a8-b6783335338c",
             "servidor": "Servidor 20",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "mousasticoshvily",
             "senha": "mrtv15xx",
@@ -336,19 +336,19 @@
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
             "timezone": "America/Sao_Paulo",
-            "quantidade_de_canais": 1954,
-            "quantidade_de_filmes": 15787,
-            "quantidade_de_series": 4052
+            "quantidade_de_canais": 0,
+            "quantidade_de_filmes": 0,
+            "quantidade_de_series": 0
         },
-        "526293a9-9738-449d-bf87-7c8bcd6c6220": {
-            "id": "526293a9-9738-449d-bf87-7c8bcd6c6220",
+        "84cb3631-03cb-443b-881b-9a315073e3e0": {
+            "id": "84cb3631-03cb-443b-881b-9a315073e3e0",
             "servidor": "Servidor 21",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "Thiago37488",
             "senha": "7488274748",
             "expira_em": "2025-04-20 23:59:59",
-            "conexoes_ativas": 1,
+            "conexoes_ativas": 2,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -357,10 +357,10 @@
             "quantidade_de_filmes": 15787,
             "quantidade_de_series": 4052
         },
-        "65bbcc13-0b92-4afa-809e-0f7bcc31748e": {
-            "id": "65bbcc13-0b92-4afa-809e-0f7bcc31748e",
+        "ff422251-15c6-4474-8fa2-7bff07fc0273": {
+            "id": "ff422251-15c6-4474-8fa2-7bff07fc0273",
             "servidor": "Servidor 22",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "eeaorvtzrj",
             "senha": "42cc2di7vd",
@@ -374,10 +374,10 @@
             "quantidade_de_filmes": 15787,
             "quantidade_de_series": 4052
         },
-        "54efe93a-fb9e-455a-b174-2e761dd88632": {
-            "id": "54efe93a-fb9e-455a-b174-2e761dd88632",
+        "8ea732e8-8650-414a-9d63-721854d00363": {
+            "id": "8ea732e8-8650-414a-9d63-721854d00363",
             "servidor": "Servidor 23",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "bruno6648",
             "senha": "rodrigues4h6342",
@@ -391,15 +391,15 @@
             "quantidade_de_filmes": 15516,
             "quantidade_de_series": 4038
         },
-        "ee49b3f6-6a73-4b41-9d80-30336781a65c": {
-            "id": "ee49b3f6-6a73-4b41-9d80-30336781a65c",
+        "f452be7e-ad54-443f-9db5-2cdff4d7e2df": {
+            "id": "f452be7e-ad54-443f-9db5-2cdff4d7e2df",
             "servidor": "Servidor 24",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "15259940617",
             "senha": "use40617",
             "expira_em": "2025-09-08 23:59:59",
-            "conexoes_ativas": 1,
+            "conexoes_ativas": 2,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -408,10 +408,10 @@
             "quantidade_de_filmes": 15596,
             "quantidade_de_series": 4052
         },
-        "de4d84d7-82a9-467c-a4e2-76d730b3574b": {
-            "id": "de4d84d7-82a9-467c-a4e2-76d730b3574b",
+        "86984f8d-cc48-471c-bd5a-04f36a21394f": {
+            "id": "86984f8d-cc48-471c-bd5a-04f36a21394f",
             "servidor": "Servidor 25",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "42lap33h",
             "senha": "oji4n3rv",
@@ -425,15 +425,15 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4052
         },
-        "ddbce259-c5ec-4a8e-809d-b70bd31c164f": {
-            "id": "ddbce259-c5ec-4a8e-809d-b70bd31c164f",
+        "248a3a98-a47b-4a4b-93da-1d61f0a42fc1": {
+            "id": "248a3a98-a47b-4a4b-93da-1d61f0a42fc1",
             "servidor": "Servidor 26",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "y8pyggvo",
             "senha": "j6xq376f",
             "expira_em": "2025-06-11 23:59:59",
-            "conexoes_ativas": 0,
+            "conexoes_ativas": 3,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -442,10 +442,10 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4052
         },
-        "c511c461-7205-43dc-b6dd-620dc9051b72": {
-            "id": "c511c461-7205-43dc-b6dd-620dc9051b72",
+        "b424d311-20b2-4314-9bb9-8198cb4b9a23": {
+            "id": "b424d311-20b2-4314-9bb9-8198cb4b9a23",
             "servidor": "Servidor 27",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "adonias.20",
             "senha": "onSy785",
@@ -459,10 +459,10 @@
             "quantidade_de_filmes": 14535,
             "quantidade_de_series": 4038
         },
-        "b33c2363-7738-4a2d-87a7-45614c33065a": {
-            "id": "b33c2363-7738-4a2d-87a7-45614c33065a",
+        "cbdf06b7-e163-489c-b04d-1e6b2e918efd": {
+            "id": "cbdf06b7-e163-489c-b04d-1e6b2e918efd",
             "servidor": "Servidor 28",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "JosimarThai",
             "senha": "ughjk54hr",
@@ -476,10 +476,10 @@
             "quantidade_de_filmes": 15787,
             "quantidade_de_series": 4052
         },
-        "7ac94760-0452-4b3f-b11c-a9e87d2f289e": {
-            "id": "7ac94760-0452-4b3f-b11c-a9e87d2f289e",
+        "133190a8-9d7c-425f-b952-ae2be12a0476": {
+            "id": "133190a8-9d7c-425f-b952-ae2be12a0476",
             "servidor": "Servidor 29",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "brunosampaio",
             "senha": "982451290",
@@ -493,15 +493,15 @@
             "quantidade_de_filmes": 14806,
             "quantidade_de_series": 4052
         },
-        "5ef04c44-7d66-4a90-8200-1a13ac8862a4": {
-            "id": "5ef04c44-7d66-4a90-8200-1a13ac8862a4",
+        "0ff5391e-9aa7-4709-827d-22f96eac55ec": {
+            "id": "0ff5391e-9aa7-4709-827d-22f96eac55ec",
             "servidor": "Servidor 30",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "6792157651",
             "senha": "as784596",
             "expira_em": "2025-04-13 23:59:59",
-            "conexoes_ativas": 1,
+            "conexoes_ativas": 0,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -510,10 +510,10 @@
             "quantidade_de_filmes": 14025,
             "quantidade_de_series": 4052
         },
-        "8d201744-ad1e-47f1-8fb6-aa2c6b30eec7": {
-            "id": "8d201744-ad1e-47f1-8fb6-aa2c6b30eec7",
+        "5e7d1e93-2af3-41ab-877b-18a413a3c6bc": {
+            "id": "5e7d1e93-2af3-41ab-877b-18a413a3c6bc",
             "servidor": "Servidor 31",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "LeandroVRB",
             "senha": "32998161688",
@@ -527,10 +527,10 @@
             "quantidade_de_filmes": 14216,
             "quantidade_de_series": 4052
         },
-        "edb99f6f-d5e9-47c7-85f1-66b0427a19e4": {
-            "id": "edb99f6f-d5e9-47c7-85f1-66b0427a19e4",
+        "3ab334aa-541c-4b32-9edc-a0c9813f3c99": {
+            "id": "3ab334aa-541c-4b32-9edc-a0c9813f3c99",
             "servidor": "Servidor 32",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "ElisangelaNovaZelandia",
             "senha": "auk37b2ks7b",
@@ -544,10 +544,10 @@
             "quantidade_de_filmes": 15787,
             "quantidade_de_series": 4052
         },
-        "ad54fd6f-6482-469f-a09d-bb54ba0a0484": {
-            "id": "ad54fd6f-6482-469f-a09d-bb54ba0a0484",
+        "92466956-60c0-47cc-91fb-b39668bc6f48": {
+            "id": "92466956-60c0-47cc-91fb-b39668bc6f48",
             "servidor": "Servidor 33",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "paulonegrao",
             "senha": "r08mepqj27b",
@@ -561,15 +561,15 @@
             "quantidade_de_filmes": 15787,
             "quantidade_de_series": 4052
         },
-        "3b8a9f49-b28c-4a36-a051-b93dd16ef1e2": {
-            "id": "3b8a9f49-b28c-4a36-a051-b93dd16ef1e2",
+        "cc927ea4-e36f-4004-a571-6b4929288db5": {
+            "id": "cc927ea4-e36f-4004-a571-6b4929288db5",
             "servidor": "Servidor 34",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "4891373042",
             "senha": "hook7452",
             "expira_em": "2025-04-01 23:59:59",
-            "conexoes_ativas": 1,
+            "conexoes_ativas": 0,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -578,15 +578,15 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4038
         },
-        "2cff5de1-b3c0-424c-a28c-ad14627bc7b2": {
-            "id": "2cff5de1-b3c0-424c-a28c-ad14627bc7b2",
+        "a82cd3d3-159b-45ef-afde-caf8e39b48be": {
+            "id": "a82cd3d3-159b-45ef-afde-caf8e39b48be",
             "servidor": "Servidor 35",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "gutotvz3",
             "senha": "847485959",
             "expira_em": "2025-04-03 23:59:59",
-            "conexoes_ativas": 1,
+            "conexoes_ativas": 0,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -595,10 +595,10 @@
             "quantidade_de_filmes": 15516,
             "quantidade_de_series": 4038
         },
-        "4faf7a42-18d1-45cd-ba47-6d8835c7ac15": {
-            "id": "4faf7a42-18d1-45cd-ba47-6d8835c7ac15",
+        "9ebddf4d-4466-4bcd-8ae2-1e5502090132": {
+            "id": "9ebddf4d-4466-4bcd-8ae2-1e5502090132",
             "servidor": "Servidor 36",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "ffz56gll56",
             "senha": "b4fc6ffjnl",
@@ -612,10 +612,27 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4052
         },
-        "830749eb-6eb6-4ccf-a83c-b7754dcff94d": {
-            "id": "830749eb-6eb6-4ccf-a83c-b7754dcff94d",
+        "85543526-0ab8-4a38-885a-20bccd429819": {
+            "id": "85543526-0ab8-4a38-885a-20bccd429819",
             "servidor": "Servidor 37",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
+            "real": null,
+            "usuario": "b2dos6vl",
+            "senha": "2ykmmjq6",
+            "expira_em": "2025-04-14 23:59:59",
+            "conexoes_ativas": 0,
+            "conexoes_maximas": 1,
+            "status": "ACTIVE",
+            "mensagem": "Deus e Fiel.",
+            "timezone": "America/Sao_Paulo",
+            "quantidade_de_canais": 4287,
+            "quantidade_de_filmes": 15516,
+            "quantidade_de_series": 4038
+        },
+        "93003377-414a-4a5d-b6a8-429b478240de": {
+            "id": "93003377-414a-4a5d-b6a8-429b478240de",
+            "servidor": "Servidor 38",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "joubert",
             "senha": "982451290",
@@ -629,32 +646,15 @@
             "quantidade_de_filmes": 15596,
             "quantidade_de_series": 4052
         },
-        "fba85b7e-4f1a-428b-a8e9-c8d9be8763f8": {
-            "id": "fba85b7e-4f1a-428b-a8e9-c8d9be8763f8",
-            "servidor": "Servidor 38",
-            "painel": "http://cdnseven.xyz:8080",
-            "real": null,
-            "usuario": "b2dos6vl",
-            "senha": "2ykmmjq6",
-            "expira_em": "2025-04-14 23:59:59",
-            "conexoes_ativas": 2,
-            "conexoes_maximas": 1,
-            "status": "ACTIVE",
-            "mensagem": "Deus e Fiel.",
-            "timezone": "America/Sao_Paulo",
-            "quantidade_de_canais": 4287,
-            "quantidade_de_filmes": 15516,
-            "quantidade_de_series": 4038
-        },
-        "cb94bb56-84e6-4c03-8036-57e53a66dba5": {
-            "id": "cb94bb56-84e6-4c03-8036-57e53a66dba5",
+        "9d3b6502-fdcc-4111-8221-d09afbcbb24c": {
+            "id": "9d3b6502-fdcc-4111-8221-d09afbcbb24c",
             "servidor": "Servidor 39",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "SamiraColodo",
             "senha": "9hYJKLw7",
             "expira_em": "2025-04-22 23:59:59",
-            "conexoes_ativas": 0,
+            "conexoes_ativas": 1,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -663,10 +663,10 @@
             "quantidade_de_filmes": 15516,
             "quantidade_de_series": 4038
         },
-        "d70b8792-32b2-4399-a5e5-abaf8e46e120": {
-            "id": "d70b8792-32b2-4399-a5e5-abaf8e46e120",
+        "9e71ab81-9fc2-42c9-b61b-1ee7dbcc8ec6": {
+            "id": "9e71ab81-9fc2-42c9-b61b-1ee7dbcc8ec6",
             "servidor": "Servidor 40",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "BrunaFrancisco353",
             "senha": "Irland35383",
@@ -680,15 +680,15 @@
             "quantidade_de_filmes": 15596,
             "quantidade_de_series": 4052
         },
-        "0c046517-f7c5-410a-ba69-009a49e5d342": {
-            "id": "0c046517-f7c5-410a-ba69-009a49e5d342",
+        "1163b0c5-c59f-4d0c-90e1-1f0dd3a4fc84": {
+            "id": "1163b0c5-c59f-4d0c-90e1-1f0dd3a4fc84",
             "servidor": "Servidor 41",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "ivouk21outubro",
             "senha": "ivo9765",
             "expira_em": "2025-06-02 18:21:07",
-            "conexoes_ativas": 1,
+            "conexoes_ativas": 2,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -697,15 +697,15 @@
             "quantidade_de_filmes": 15596,
             "quantidade_de_series": 3668
         },
-        "4f2b5afd-f634-4e4f-834f-27b261ad0ff7": {
-            "id": "4f2b5afd-f634-4e4f-834f-27b261ad0ff7",
+        "a4fc5178-8bea-4e38-be4e-d71ee4a858b6": {
+            "id": "a4fc5178-8bea-4e38-be4e-d71ee4a858b6",
             "servidor": "Servidor 42",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "o3w43k",
             "senha": "9i7dje",
             "expira_em": "2025-04-10 23:59:59",
-            "conexoes_ativas": 2,
+            "conexoes_ativas": 1,
             "conexoes_maximas": 1,
             "status": "ACTIVE",
             "mensagem": "Deus e Fiel.",
@@ -714,10 +714,10 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4038
         },
-        "67183147-5156-447d-ae86-5729799649dc": {
-            "id": "67183147-5156-447d-ae86-5729799649dc",
+        "4b9ec8cd-dbda-48b1-a51c-9e07d37c1b6d": {
+            "id": "4b9ec8cd-dbda-48b1-a51c-9e07d37c1b6d",
             "servidor": "Servidor 43",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "3947938",
             "senha": "128192899",
@@ -731,10 +731,10 @@
             "quantidade_de_filmes": 15707,
             "quantidade_de_series": 4038
         },
-        "2779ddd0-3653-4b09-89b5-641c033c51a0": {
-            "id": "2779ddd0-3653-4b09-89b5-641c033c51a0",
+        "bda16048-c140-417b-a13b-068b3a59723f": {
+            "id": "bda16048-c140-417b-a13b-068b3a59723f",
             "servidor": "Servidor 44",
-            "painel": "http://cdnseven.xyz:8080",
+            "painel": "http://7online.xyz:8080",
             "real": null,
             "usuario": "Miotoika",
             "senha": "Ika9802",
@@ -747,23 +747,6 @@
             "quantidade_de_canais": 1880,
             "quantidade_de_filmes": 15516,
             "quantidade_de_series": 4039
-        },
-        "a00f94cd-0c0a-4107-acea-47f2fda05267": {
-            "id": "a00f94cd-0c0a-4107-acea-47f2fda05267",
-            "servidor": "Servidor 45",
-            "painel": "http://cdnseven.xyz:8080",
-            "real": null,
-            "usuario": "dfferreira02",
-            "senha": "evosj4297n",
-            "expira_em": "2025-04-14 23:59:59",
-            "conexoes_ativas": 1,
-            "conexoes_maximas": 1,
-            "status": "ACTIVE",
-            "mensagem": "Deus e Fiel.",
-            "timezone": "America/Sao_Paulo",
-            "quantidade_de_canais": 5112,
-            "quantidade_de_filmes": 15707,
-            "quantidade_de_series": 4052
         }
     }
 }
