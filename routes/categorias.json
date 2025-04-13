@@ -32,7 +32,46 @@
         "category_name": "touroboxv4.redemais.click",
         "parent_id": 0  
         
+    },
+
+    {
+        "category_id": "5",
+        "category_type": "2",
+        "category_name": "170.39.192.130",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "6",
+        "category_type": "1",
+        "category_name": "gomn.xplus2.xyz",
+        "parent_id": 0  
+        
+    },
+    {
+        "category_id": "7",
+        "category_type": "2",
+        "category_name": "picapaunet.top",
+        "parent_id": 0  
+        
+    },
+    {
+        "category_id": "8",
+        "category_type": "2",
+        "category_name": "series.homes",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "9",
+        "category_type": "2",
+        "category_name": "snake.ilovecollege.info",
+        "parent_id": 0  
+        
     }
+
 
 
 
