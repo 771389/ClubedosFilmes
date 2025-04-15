@@ -36,7 +36,7 @@
 
     {
         "category_id": "5",
-        "category_type": "2",
+        "category_type": "1",
         "category_name": "170.39.192.130",
         "parent_id": 0  
         
@@ -70,7 +70,18 @@
         "category_name": "snake.ilovecollege.info",
         "parent_id": 0  
         
-    }
+    },
+
+    {
+        "category_id": "10",
+        "category_type": "2",
+        "category_name": "turbocdn.sbs",
+        "parent_id": 0  
+        
+    },
+
+
+
 
 
 
