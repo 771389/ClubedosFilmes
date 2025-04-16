@@ -4,7 +4,7 @@
             "id": "265b9c68-aaa9-4af2-949c-1777639c0eab",
             "servidor": "Servidor 1",
             "painel": "http://turbocdn.sbs:80",
-            "real": "http://turbocdn.sbs",
+            "real": "http://turbocdn.sbs:80",
             "porta": "80",
             "usuario": "6115689",
             "senha": "2394695",
