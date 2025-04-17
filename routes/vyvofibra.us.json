@@ -1,9 +1,9 @@
 {
     "servidores": {
-        "652a71cb-5a01-4bce-9b40-a7dd71504b30": {
-            "id": "652a71cb-5a01-4bce-9b40-a7dd71504b30",
+        "e281a8bb-440b-493f-924d-0cade3578225": {
+            "id": "e281a8bb-440b-493f-924d-0cade3578225",
             "servidor": "Servidor 1",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "073016",
@@ -17,10 +17,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "2587ca42-4c67-4205-8586-67dafc5bc2d4": {
-            "id": "2587ca42-4c67-4205-8586-67dafc5bc2d4",
+        "1657f7b4-c56d-451e-8928-17d92cbded72": {
+            "id": "1657f7b4-c56d-451e-8928-17d92cbded72",
             "servidor": "Servidor 2",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "80971566",
@@ -34,10 +34,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "cbb01b84-a42a-44ed-9800-bae70fbdc461": {
-            "id": "cbb01b84-a42a-44ed-9800-bae70fbdc461",
+        "993a53d5-dd79-415c-97ab-68933aa35e46": {
+            "id": "993a53d5-dd79-415c-97ab-68933aa35e46",
             "servidor": "Servidor 3",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "33978522",
@@ -51,10 +51,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "a8ab2644-1a18-4e3a-80e7-e0d6d2beff79": {
-            "id": "a8ab2644-1a18-4e3a-80e7-e0d6d2beff79",
+        "15207f4e-47e1-47e5-8fb5-b481f5a6da97": {
+            "id": "15207f4e-47e1-47e5-8fb5-b481f5a6da97",
             "servidor": "Servidor 4",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "3llohwk4g9",
@@ -68,10 +68,10 @@
             "quantidade_de_filmes": 12468,
             "quantidade_de_series": 6304
         },
-        "5798a47d-2692-4496-b053-37879ee7793d": {
-            "id": "5798a47d-2692-4496-b053-37879ee7793d",
+        "3fbdfcb5-5b01-4c82-aac0-afd445fc487b": {
+            "id": "3fbdfcb5-5b01-4c82-aac0-afd445fc487b",
             "servidor": "Servidor 5",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "92524482",
@@ -85,10 +85,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6081
         },
-        "d8971e11-ef88-4182-a0cc-1dc22c3a4ebe": {
-            "id": "d8971e11-ef88-4182-a0cc-1dc22c3a4ebe",
+        "9dfe7684-da74-4cc8-aa6e-40473d7f2247": {
+            "id": "9dfe7684-da74-4cc8-aa6e-40473d7f2247",
             "servidor": "Servidor 6",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "75369650",
@@ -102,10 +102,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6304
         },
-        "fad07b79-a4ee-4ae0-b564-0c29bc4b0441": {
-            "id": "fad07b79-a4ee-4ae0-b564-0c29bc4b0441",
+        "37398bf3-a642-46b4-8d92-faa343a67809": {
+            "id": "37398bf3-a642-46b4-8d92-faa343a67809",
             "servidor": "Servidor 7",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "20428462",
@@ -119,10 +119,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "528d99f3-0c84-475e-aa0e-9c42e25c1604": {
-            "id": "528d99f3-0c84-475e-aa0e-9c42e25c1604",
+        "dfbe290f-4390-405a-93c6-dbf5d9bfb878": {
+            "id": "dfbe290f-4390-405a-93c6-dbf5d9bfb878",
             "servidor": "Servidor 8",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "tcr77xysd6",
@@ -136,10 +136,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "6e41bcf0-4cca-4b01-a966-985e8d751855": {
-            "id": "6e41bcf0-4cca-4b01-a966-985e8d751855",
+        "f51322bf-4dca-408f-b750-e92da4a7daf4": {
+            "id": "f51322bf-4dca-408f-b750-e92da4a7daf4",
             "servidor": "Servidor 9",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "45638289",
@@ -153,10 +153,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "5bb371a4-f766-4d4b-81a8-fceac73f2718": {
-            "id": "5bb371a4-f766-4d4b-81a8-fceac73f2718",
+        "dd187535-3bc4-4505-a5ed-5e920cb99106": {
+            "id": "dd187535-3bc4-4505-a5ed-5e920cb99106",
             "servidor": "Servidor 10",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "04563784",
@@ -170,10 +170,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "934a85aa-b85a-4830-984f-d8308247d39e": {
-            "id": "934a85aa-b85a-4830-984f-d8308247d39e",
+        "f6a84552-5761-406b-b29f-7674bc0e1909": {
+            "id": "f6a84552-5761-406b-b29f-7674bc0e1909",
             "servidor": "Servidor 11",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "741522",
@@ -187,10 +187,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "6ab8bbfe-f321-4b05-a0b6-0e339fed7c4a": {
-            "id": "6ab8bbfe-f321-4b05-a0b6-0e339fed7c4a",
+        "374d6256-6101-45fe-940b-dae2733c1117": {
+            "id": "374d6256-6101-45fe-940b-dae2733c1117",
             "servidor": "Servidor 12",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "557786",
@@ -204,10 +204,10 @@
             "quantidade_de_filmes": 11351,
             "quantidade_de_series": 6304
         },
-        "143c4be7-e332-4275-ae48-8c01ab54dcbd": {
-            "id": "143c4be7-e332-4275-ae48-8c01ab54dcbd",
+        "905e606a-3229-4a86-bbfa-c80c667b1a26": {
+            "id": "905e606a-3229-4a86-bbfa-c80c667b1a26",
             "servidor": "Servidor 13",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "ruypxi",
@@ -221,10 +221,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "04067d17-68c7-4e10-b324-ceb1eddcb03d": {
-            "id": "04067d17-68c7-4e10-b324-ceb1eddcb03d",
+        "d4386e40-614c-4db3-8a9e-8cd9cd30b21b": {
+            "id": "d4386e40-614c-4db3-8a9e-8cd9cd30b21b",
             "servidor": "Servidor 14",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "298295",
@@ -238,10 +238,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "2ecb066c-b907-4fa2-962a-1f867f8c1ade": {
-            "id": "2ecb066c-b907-4fa2-962a-1f867f8c1ade",
+        "55517ce9-6bac-49ed-a4bd-f1140d6ef5f4": {
+            "id": "55517ce9-6bac-49ed-a4bd-f1140d6ef5f4",
             "servidor": "Servidor 15",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "dio2luq3aa",
@@ -255,10 +255,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6304
         },
-        "da2e0c4f-17bb-473e-9b16-0a3bdbd96bf3": {
-            "id": "da2e0c4f-17bb-473e-9b16-0a3bdbd96bf3",
+        "8d07a6dd-b8b5-42f3-94cc-9f59318cb09f": {
+            "id": "8d07a6dd-b8b5-42f3-94cc-9f59318cb09f",
             "servidor": "Servidor 16",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "no3u4qcro8",
@@ -272,10 +272,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "5ad71c77-fe0f-4648-9acc-932b793dab95": {
-            "id": "5ad71c77-fe0f-4648-9acc-932b793dab95",
+        "57d8e3a2-64cd-4b67-ade4-0a5c85ea97bf": {
+            "id": "57d8e3a2-64cd-4b67-ade4-0a5c85ea97bf",
             "servidor": "Servidor 17",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "irnkIDgX84",
@@ -289,10 +289,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "ff495aa7-4c56-4703-bb95-013828276bbc": {
-            "id": "ff495aa7-4c56-4703-bb95-013828276bbc",
+        "d8647942-0d5d-4f8c-a237-a0d9e20a530b": {
+            "id": "d8647942-0d5d-4f8c-a237-a0d9e20a530b",
             "servidor": "Servidor 18",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "teste100",
@@ -306,10 +306,10 @@
             "quantidade_de_filmes": 0,
             "quantidade_de_series": 0
         },
-        "36a6053f-ecea-4662-b6fa-a4213d5ea872": {
-            "id": "36a6053f-ecea-4662-b6fa-a4213d5ea872",
+        "b0a98faf-43a6-422b-9fa5-9830bbca8c61": {
+            "id": "b0a98faf-43a6-422b-9fa5-9830bbca8c61",
             "servidor": "Servidor 19",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "p9o04693uk",
@@ -323,10 +323,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "8a4cf335-9edc-44c5-ac0f-a7f190d52cbe": {
-            "id": "8a4cf335-9edc-44c5-ac0f-a7f190d52cbe",
+        "3220edae-ae80-44fd-80d2-c37a521042db": {
+            "id": "3220edae-ae80-44fd-80d2-c37a521042db",
             "servidor": "Servidor 20",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "i02cpmyji5",
@@ -340,10 +340,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "5dc9c4f8-e142-421d-8484-e9fb13c86872": {
-            "id": "5dc9c4f8-e142-421d-8484-e9fb13c86872",
+        "ab43d70e-a385-450d-89a1-5801c1abddea": {
+            "id": "ab43d70e-a385-450d-89a1-5801c1abddea",
             "servidor": "Servidor 21",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "9224485157",
@@ -357,10 +357,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "ef364603-e2ef-4992-a236-64dfedfc51d5": {
-            "id": "ef364603-e2ef-4992-a236-64dfedfc51d5",
+        "6b6d8d61-dd65-40f1-8f82-c84c8543d775": {
+            "id": "6b6d8d61-dd65-40f1-8f82-c84c8543d775",
             "servidor": "Servidor 22",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "8953913135",
@@ -374,10 +374,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "244276a7-7fa4-4846-b72c-f15c54d7032b": {
-            "id": "244276a7-7fa4-4846-b72c-f15c54d7032b",
+        "68b99d16-c199-4d5c-ac19-3f4ee1bb889f": {
+            "id": "68b99d16-c199-4d5c-ac19-3f4ee1bb889f",
             "servidor": "Servidor 23",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "87131305",
@@ -391,10 +391,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "485be287-5ef0-40e7-be25-f8806ea32de4": {
-            "id": "485be287-5ef0-40e7-be25-f8806ea32de4",
+        "633083d1-4d57-4c72-b61d-8ee90ed87344": {
+            "id": "633083d1-4d57-4c72-b61d-8ee90ed87344",
             "servidor": "Servidor 24",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "21621072",
@@ -408,10 +408,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6304
         },
-        "d404edaf-1cfe-4463-8e3d-9df3152ca0b8": {
-            "id": "d404edaf-1cfe-4463-8e3d-9df3152ca0b8",
+        "033e6bc6-cba4-4b0d-a058-486117bc1cfe": {
+            "id": "033e6bc6-cba4-4b0d-a058-486117bc1cfe",
             "servidor": "Servidor 25",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "Moniquinhapetr",
@@ -425,10 +425,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "a01171b3-c1b7-4f2f-bb7a-9143093ca092": {
-            "id": "a01171b3-c1b7-4f2f-bb7a-9143093ca092",
+        "d5fe78b1-4894-4877-abbf-2e4b3cdf8b68": {
+            "id": "d5fe78b1-4894-4877-abbf-2e4b3cdf8b68",
             "servidor": "Servidor 26",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "vrp9j4",
@@ -442,10 +442,10 @@
             "quantidade_de_filmes": 12468,
             "quantidade_de_series": 6304
         },
-        "9b03a8e1-0909-43c0-9256-296b782fea8a": {
-            "id": "9b03a8e1-0909-43c0-9256-296b782fea8a",
+        "77432a3a-c1d4-4e70-8c43-a1ca36a6c6ac": {
+            "id": "77432a3a-c1d4-4e70-8c43-a1ca36a6c6ac",
             "servidor": "Servidor 27",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "50873704",
@@ -459,10 +459,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "60a56b6d-f378-4a75-ac15-61fda6bf1363": {
-            "id": "60a56b6d-f378-4a75-ac15-61fda6bf1363",
+        "bc08d5a8-2641-46b2-a5f9-5cf5fae6ddd2": {
+            "id": "bc08d5a8-2641-46b2-a5f9-5cf5fae6ddd2",
             "servidor": "Servidor 28",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "anaalcides",
@@ -476,10 +476,10 @@
             "quantidade_de_filmes": 11351,
             "quantidade_de_series": 6304
         },
-        "b6d7d20b-1a4f-48bb-aba9-6144d71c56d9": {
-            "id": "b6d7d20b-1a4f-48bb-aba9-6144d71c56d9",
+        "2978fce9-d09e-452f-85ac-47157e11b506": {
+            "id": "2978fce9-d09e-452f-85ac-47157e11b506",
             "servidor": "Servidor 29",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "42241666",
@@ -493,10 +493,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6081
         },
-        "ceb6417f-f8e5-42f7-9529-013c54d54149": {
-            "id": "ceb6417f-f8e5-42f7-9529-013c54d54149",
+        "0d41f781-3561-4926-b5f1-afa7c9c89572": {
+            "id": "0d41f781-3561-4926-b5f1-afa7c9c89572",
             "servidor": "Servidor 30",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "EMdUPeduyO",
@@ -510,10 +510,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "0a336e26-d190-4f81-9a7c-a79e9c474051": {
-            "id": "0a336e26-d190-4f81-9a7c-a79e9c474051",
+        "4d3edd8b-75a0-49ab-9857-b77c82487068": {
+            "id": "4d3edd8b-75a0-49ab-9857-b77c82487068",
             "servidor": "Servidor 31",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "d5xhao",
@@ -527,10 +527,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "7d8fa265-cbc0-4f83-913c-f0846bb3bef9": {
-            "id": "7d8fa265-cbc0-4f83-913c-f0846bb3bef9",
+        "2c0a46b7-a9b5-4102-8985-b8aeb7c85d27": {
+            "id": "2c0a46b7-a9b5-4102-8985-b8aeb7c85d27",
             "servidor": "Servidor 32",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "10657593",
@@ -544,10 +544,10 @@
             "quantidade_de_filmes": 12468,
             "quantidade_de_series": 6304
         },
-        "c775fefc-b4ef-47b3-a38e-7df7873ae9e0": {
-            "id": "c775fefc-b4ef-47b3-a38e-7df7873ae9e0",
+        "0bc85a15-cc82-4ad6-ad65-24f83fbea936": {
+            "id": "0bc85a15-cc82-4ad6-ad65-24f83fbea936",
             "servidor": "Servidor 33",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "e7838387eg77ew",
@@ -561,10 +561,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "9b28c122-7896-411c-9fbf-10b4e2fa67e4": {
-            "id": "9b28c122-7896-411c-9fbf-10b4e2fa67e4",
+        "0a151e48-c80c-46a1-81ce-5f07d4cedef0": {
+            "id": "0a151e48-c80c-46a1-81ce-5f07d4cedef0",
             "servidor": "Servidor 34",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "4866781690",
@@ -578,10 +578,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "2962cda4-a480-4b19-b49b-37557f2ff739": {
-            "id": "2962cda4-a480-4b19-b49b-37557f2ff739",
+        "c0921ce6-dd8b-4f69-ab1f-2065ce513575": {
+            "id": "c0921ce6-dd8b-4f69-ab1f-2065ce513575",
             "servidor": "Servidor 35",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "19756721",
@@ -595,10 +595,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "68241786-5a1c-49f0-818e-e920e5753efb": {
-            "id": "68241786-5a1c-49f0-818e-e920e5753efb",
+        "3580603c-4c51-419a-83ff-c9196f742957": {
+            "id": "3580603c-4c51-419a-83ff-c9196f742957",
             "servidor": "Servidor 36",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "li9b28",
@@ -612,10 +612,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "6a1654df-76c7-4d48-8713-0d4bee1aef07": {
-            "id": "6a1654df-76c7-4d48-8713-0d4bee1aef07",
+        "d255b433-15bc-4f18-99ba-365f175dc603": {
+            "id": "d255b433-15bc-4f18-99ba-365f175dc603",
             "servidor": "Servidor 37",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "Vn4b6MLSiS",
@@ -629,10 +629,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "6bc5f4ff-ff15-439c-9988-270a5edd4294": {
-            "id": "6bc5f4ff-ff15-439c-9988-270a5edd4294",
+        "4662a7d4-5a74-4d09-940e-ec37f1ef10b7": {
+            "id": "4662a7d4-5a74-4d09-940e-ec37f1ef10b7",
             "servidor": "Servidor 38",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "i63uhamk36",
@@ -646,10 +646,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "86add29e-bbf5-4d50-b471-ac30379c89f4": {
-            "id": "86add29e-bbf5-4d50-b471-ac30379c89f4",
+        "84dc6554-b5e3-470e-904f-ec82e4485cd3": {
+            "id": "84dc6554-b5e3-470e-904f-ec82e4485cd3",
             "servidor": "Servidor 39",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "8050425073",
@@ -663,10 +663,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "11a8373e-b042-40d2-9901-b07decc3493f": {
-            "id": "11a8373e-b042-40d2-9901-b07decc3493f",
+        "9d5fc89b-3f0a-4ee8-9137-41388f612f83": {
+            "id": "9d5fc89b-3f0a-4ee8-9137-41388f612f83",
             "servidor": "Servidor 40",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "28319307",
@@ -680,10 +680,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "49961aa2-a81d-44a8-9ca1-cb571261b284": {
-            "id": "49961aa2-a81d-44a8-9ca1-cb571261b284",
+        "ff39e3a4-84d1-43d2-93da-faa01a0fed2d": {
+            "id": "ff39e3a4-84d1-43d2-93da-faa01a0fed2d",
             "servidor": "Servidor 41",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "tiaguinho2015",
@@ -697,10 +697,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "51497c1f-4940-4005-920c-cc15957b5315": {
-            "id": "51497c1f-4940-4005-920c-cc15957b5315",
+        "8fe11f67-a0c6-459a-b7ff-27933b45e478": {
+            "id": "8fe11f67-a0c6-459a-b7ff-27933b45e478",
             "servidor": "Servidor 42",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "aqrw2s8czs",
@@ -714,10 +714,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "8c26c8a6-7e4e-4164-9567-a026dcf13940": {
-            "id": "8c26c8a6-7e4e-4164-9567-a026dcf13940",
+        "4a34a0f2-cf8a-4195-ae5c-cc54a56854a1": {
+            "id": "4a34a0f2-cf8a-4195-ae5c-cc54a56854a1",
             "servidor": "Servidor 43",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "9736253423",
@@ -731,10 +731,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "725afb8c-a3c8-4a49-ab91-b8c585356010": {
-            "id": "725afb8c-a3c8-4a49-ab91-b8c585356010",
+        "a214a844-b98b-4fbc-97df-36c2e9c6c511": {
+            "id": "a214a844-b98b-4fbc-97df-36c2e9c6c511",
             "servidor": "Servidor 44",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "13110802",
@@ -748,10 +748,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6081
         },
-        "e99435a7-ba87-4873-b85e-2cf89dfbd8b3": {
-            "id": "e99435a7-ba87-4873-b85e-2cf89dfbd8b3",
+        "800b29b7-9bb6-4865-b71d-c787e25e9f0d": {
+            "id": "800b29b7-9bb6-4865-b71d-c787e25e9f0d",
             "servidor": "Servidor 45",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "52644474",
@@ -765,10 +765,10 @@
             "quantidade_de_filmes": 12468,
             "quantidade_de_series": 6081
         },
-        "5dc0b1e6-fdb1-48af-9c99-3997eb5357ce": {
-            "id": "5dc0b1e6-fdb1-48af-9c99-3997eb5357ce",
+        "3b4311d4-c305-456e-a9e1-ffc01070856e": {
+            "id": "3b4311d4-c305-456e-a9e1-ffc01070856e",
             "servidor": "Servidor 46",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "idddyktu68",
@@ -782,10 +782,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "d0f8a28a-dea2-4928-a826-8ec14630d383": {
-            "id": "d0f8a28a-dea2-4928-a826-8ec14630d383",
+        "c5f0e8d0-0491-4bc0-af55-a4ee76e58ca9": {
+            "id": "c5f0e8d0-0491-4bc0-af55-a4ee76e58ca9",
             "servidor": "Servidor 47",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "hr52kzjoes",
@@ -799,10 +799,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6304
         },
-        "55308033-6790-4a28-8e0c-0b794372c9d9": {
-            "id": "55308033-6790-4a28-8e0c-0b794372c9d9",
+        "e94fa00b-7078-4117-951c-e47bded6fa30": {
+            "id": "e94fa00b-7078-4117-951c-e47bded6fa30",
             "servidor": "Servidor 48",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "ander54",
@@ -816,10 +816,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6081
         },
-        "acc6b442-c835-4f85-9e36-cd8b3f96313b": {
-            "id": "acc6b442-c835-4f85-9e36-cd8b3f96313b",
+        "1a639bf0-96e3-4305-aef0-14d2e88b16c5": {
+            "id": "1a639bf0-96e3-4305-aef0-14d2e88b16c5",
             "servidor": "Servidor 49",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "e8z3gjdbvr",
@@ -833,10 +833,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "cf74a8eb-39fc-4a4a-81d3-435b5bc81b6c": {
-            "id": "cf74a8eb-39fc-4a4a-81d3-435b5bc81b6c",
+        "4f8fa194-7742-4654-9fc5-8e4177a9ef76": {
+            "id": "4f8fa194-7742-4654-9fc5-8e4177a9ef76",
             "servidor": "Servidor 50",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "6555655882",
@@ -850,10 +850,10 @@
             "quantidade_de_filmes": 12468,
             "quantidade_de_series": 6304
         },
-        "96688605-e23b-4b79-9600-d4ca2e155a12": {
-            "id": "96688605-e23b-4b79-9600-d4ca2e155a12",
+        "308c4f84-ce64-4df0-93e3-6b33a4a812e7": {
+            "id": "308c4f84-ce64-4df0-93e3-6b33a4a812e7",
             "servidor": "Servidor 51",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "Pac080486",
@@ -867,10 +867,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "031f2e73-88f9-449d-a461-a69e15e7f891": {
-            "id": "031f2e73-88f9-449d-a461-a69e15e7f891",
+        "2894b9bb-66d2-41e0-b7bb-945e1aa045a8": {
+            "id": "2894b9bb-66d2-41e0-b7bb-945e1aa045a8",
             "servidor": "Servidor 52",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "14666532",
@@ -884,10 +884,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6304
         },
-        "ddc50ad8-1bb9-4d78-b551-029a339b848c": {
-            "id": "ddc50ad8-1bb9-4d78-b551-029a339b848c",
+        "6bc1627d-b0e6-4ca5-a704-ddda24684a99": {
+            "id": "6bc1627d-b0e6-4ca5-a704-ddda24684a99",
             "servidor": "Servidor 53",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "59574127",
@@ -901,10 +901,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6304
         },
-        "0c53357a-d0b4-41d1-b96d-a97442979d4c": {
-            "id": "0c53357a-d0b4-41d1-b96d-a97442979d4c",
+        "26383634-414e-414f-8656-84b795bc4dc0": {
+            "id": "26383634-414e-414f-8656-84b795bc4dc0",
             "servidor": "Servidor 54",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "814409",
@@ -918,10 +918,10 @@
             "quantidade_de_filmes": 12468,
             "quantidade_de_series": 6304
         },
-        "38c7779d-c908-486e-a9a9-8474e564a60d": {
-            "id": "38c7779d-c908-486e-a9a9-8474e564a60d",
+        "8c82a8a7-e1e0-4f71-89ad-5ef7f4c1d3fb": {
+            "id": "8c82a8a7-e1e0-4f71-89ad-5ef7f4c1d3fb",
             "servidor": "Servidor 55",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "5592083127",
@@ -935,10 +935,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "d20172a0-a23b-49c3-ac7c-abc78c51d469": {
-            "id": "d20172a0-a23b-49c3-ac7c-abc78c51d469",
+        "ded2a51d-06a8-4a9b-a2de-a8bc40b4bfa2": {
+            "id": "ded2a51d-06a8-4a9b-a2de-a8bc40b4bfa2",
             "servidor": "Servidor 56",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "49097792",
@@ -952,10 +952,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "3e08a9be-49ac-4679-9f78-d7ab15a0d5c4": {
-            "id": "3e08a9be-49ac-4679-9f78-d7ab15a0d5c4",
+        "db9aad3b-b745-4ee7-81be-35d5e993688b": {
+            "id": "db9aad3b-b745-4ee7-81be-35d5e993688b",
             "servidor": "Servidor 57",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "60449675",
@@ -969,10 +969,10 @@
             "quantidade_de_filmes": 12468,
             "quantidade_de_series": 6304
         },
-        "679208d2-4650-4b5d-8123-f10662b4a569": {
-            "id": "679208d2-4650-4b5d-8123-f10662b4a569",
+        "0316eebd-f688-41c5-80a2-621a25dc7107": {
+            "id": "0316eebd-f688-41c5-80a2-621a25dc7107",
             "servidor": "Servidor 58",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "64897228",
@@ -986,10 +986,10 @@
             "quantidade_de_filmes": 11351,
             "quantidade_de_series": 6304
         },
-        "0eaa26d6-0969-4822-83a2-acb5e0e32f67": {
-            "id": "0eaa26d6-0969-4822-83a2-acb5e0e32f67",
+        "c9607ca3-7851-4baf-aa00-741947ce2746": {
+            "id": "c9607ca3-7851-4baf-aa00-741947ce2746",
             "servidor": "Servidor 59",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "821116",
@@ -1003,10 +1003,10 @@
             "quantidade_de_filmes": 11351,
             "quantidade_de_series": 6304
         },
-        "0ad4820f-0234-4ecc-b0a0-8ba1e14700b5": {
-            "id": "0ad4820f-0234-4ecc-b0a0-8ba1e14700b5",
+        "6a912990-109a-400a-ac5c-ade01dc099c3": {
+            "id": "6a912990-109a-400a-ac5c-ade01dc099c3",
             "servidor": "Servidor 60",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "8239130357",
@@ -1020,10 +1020,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "07ad69df-7e6d-4864-af8c-9f714ff6b20b": {
-            "id": "07ad69df-7e6d-4864-af8c-9f714ff6b20b",
+        "fb9d8fd1-3f8d-47f3-b57c-2883496d02c4": {
+            "id": "fb9d8fd1-3f8d-47f3-b57c-2883496d02c4",
             "servidor": "Servidor 61",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "iipvxua36s",
@@ -1037,10 +1037,10 @@
             "quantidade_de_filmes": 11964,
             "quantidade_de_series": 6304
         },
-        "5dbbebf6-398e-4a8d-b4d8-8e11e0b02e18": {
-            "id": "5dbbebf6-398e-4a8d-b4d8-8e11e0b02e18",
+        "55077dbf-7281-428d-8443-2f4d53eec07d": {
+            "id": "55077dbf-7281-428d-8443-2f4d53eec07d",
             "servidor": "Servidor 62",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "z6gr2daznv",
@@ -1054,10 +1054,10 @@
             "quantidade_de_filmes": 10847,
             "quantidade_de_series": 6304
         },
-        "20b1056e-18c3-4658-b00c-57354ed0d3a8": {
-            "id": "20b1056e-18c3-4658-b00c-57354ed0d3a8",
+        "2f673531-f1f9-4674-b532-29590dd4c91a": {
+            "id": "2f673531-f1f9-4674-b532-29590dd4c91a",
             "servidor": "Servidor 63",
-            "host": "http://vyvofibra.us:80",
+            "painel": "http://vyvofibra.us:80",
             "real": "http://vyvofibra.us",
             "porta": "80",
             "usuario": "stoc8lfl6n",
