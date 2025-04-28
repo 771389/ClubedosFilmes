@@ -6,6 +6,78 @@
         "category_name": "voa1.online",
         "parent_id": 0  
         
+    },
+
+    {
+        "category_id": "2",
+        "category_type": "2",
+        "category_name": "0589.eu",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "3",
+        "category_type": "2",
+        "category_name": "cdnrobot.info",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "4",
+        "category_type": "2",
+        "category_name": "gomn.xplus2.xyz",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "5",
+        "category_type": "2",
+        "category_name": "loboplay.shop",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "6",
+        "category_type": "2",
+        "category_name": "opaioo.com",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "7",
+        "category_type": "2",
+        "category_name": "opaioo.com",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "8",
+        "category_type": "2",
+        "category_name": "principal.maxpainel.net",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "9",
+        "category_type": "2",
+        "category_name": "vods.lat",
+        "parent_id": 0  
+        
+    },
+
+    {
+        "category_id": "10",
+        "category_type": "2",
+        "category_name": "x2caverinhas.store",
+        "parent_id": 0  
+        
     }
 
    
