@@ -70,6 +70,15 @@
         "category_name": "x2caverinhas.store",
         "parent_id": 0  
         
+    },
+
+    
+    {
+        "category_id": "10",
+        "category_type": "2",
+        "category_name": "oneboo.icu",
+        "parent_id": 0  
+        
     }
 
    
