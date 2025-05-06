@@ -109,6 +109,28 @@
         "category_name": "telefone.site",
         "parent_id": 0  
         
+    },
+
+    {
+        "category_id": "15",
+        "category_type": "2",
+        "category_name": "axr7.one",
+        "parent_id": 0  
+        
+    },
+    {
+        "category_id": "16",
+        "category_type": "2",
+        "category_name": "main.vipmaster.live",
+        "parent_id": 0  
+        
+    },
+    {
+        "category_id": "17",
+        "category_type": "2",
+        "category_name": "motoplatxrd.com",
+        "parent_id": 0  
+        
     }
 
    
