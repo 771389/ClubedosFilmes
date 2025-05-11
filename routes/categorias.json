@@ -203,7 +203,15 @@
     "category_name": "xci.nz",
     "parent_id": 0  
     
-}
+},
+
+{
+    "category_id": "27",
+    "category_type": "2",
+    "category_name": "turbocdn.sbs",
+    "parent_id": 0  
+    
+},
 
 
 
