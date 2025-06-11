@@ -6,7 +6,15 @@
         "category_name": "servidor1",
         "parent_id": 0  
         
-    }                                 
+    },
+    
+      {
+        "category_id": "2",
+        "category_type": "2",
+        "category_name": "servidor2",
+        "parent_id": 0  
+        
+    }   
     
 ]
 
