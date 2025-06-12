@@ -22,6 +22,14 @@
         "category_name": "servidor3",
         "parent_id": 0  
         
+    },
+    
+     {
+        "category_id": "4",
+        "category_type": "2",
+        "category_name": "servidor4",
+        "parent_id": 0  
+        
     }   
     
 ]
