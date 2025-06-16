@@ -38,7 +38,16 @@
         "category_name": "servidor5",
         "parent_id": 0  
         
+    },
+
+      {
+        "category_id": "6",
+        "category_type": "2",
+        "category_name": "servidor6",
+        "parent_id": 0  
+        
     }  
+    
     
 ]
 
