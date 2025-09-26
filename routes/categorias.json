@@ -2,7 +2,7 @@
     
     {
         "category_id": "1",
-        "category_type": "2",
+        "category_type": "1",
         "category_name": "servidor1",
         "parent_id": 0  
         
@@ -18,7 +18,7 @@
 
      {
         "category_id": "3",
-        "category_type": "2",
+        "category_type": "1",
         "category_name": "servidor3",
         "parent_id": 0  
         
